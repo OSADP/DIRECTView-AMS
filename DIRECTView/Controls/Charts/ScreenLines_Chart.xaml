@@ -1,0 +1,50 @@
+﻿<UserControl x:Class="MeasuresOfPerformance.Controls.Charts.ScreenLine_Chart"
+             xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:Charts="clr-namespace:MeasuresOfPerformance.Controls.Charts"
+             xmlns:Dynamic="clr-namespace:System.Dynamic;assembly=System.Core"
+             xmlns:Docking="http://schemas.devexpress.com/winfx/2008/xaml/docking"
+             xmlns:Bars="http://schemas.devexpress.com/winfx/2008/xaml/bars"
+             xmlns:Core="http://schemas.devexpress.com/winfx/2008/xaml/core"
+             xmlns:DemoBase="http://schemas.devexpress.com/winfx/2008/xaml/demobase"
+             xmlns:Editors="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+             xmlns:dxgt="http://schemas.devexpress.com/winfx/2008/xaml/grid/themekeys"
+             mc:Ignorable="d"
+             d:DesignHeight="500"
+             d:DesignWidth="1200">
+    <UserControl.Resources>
+
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="5" />
+            <RowDefinition Height="200" />
+            <RowDefinition Height="20" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="20" />
+        </Grid.ColumnDefinitions>
+        <dxg:GridControl x:Name="Summary"
+                         Grid.Column="1"
+                         Grid.Row="3">
+            <dxg:GridControl.Columns>
+                <dxg:GridColumn FieldName="Name"
+                                AllowEditing="False" />
+                <dxg:GridColumn FieldName="Total"
+                                AllowEditing="False" />
+            </dxg:GridControl.Columns>
+            <dxg:GridControl.View>
+                <dxg:CardView />
+            </dxg:GridControl.View>
+        </dxg:GridControl>
+        <Charts:Chart x:Name="Chart"  Grid.Column="1"  Grid.Row="0"/>
+        
+    </Grid>
+</UserControl>

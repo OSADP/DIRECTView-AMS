@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="DIRECTView.Controls.StatusBars.StatusBar"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DIRECTView.Controls.StatusBars"
+             xmlns:dxr="http://schemas.devexpress.com/winfx/2008/xaml/ribbon"
+             mc:Ignorable="d" 
+             d:DesignHeight="30" d:DesignWidth="300">
+    <Grid>
+        <dxr:RibbonStatusBarControl >
+            <!--<dxr:RibbonStatusBarControl.LeftItems>
+                    <dxb:BarStaticItem x:Name="biRow"
+                                       Content="Row:"
+                                       ShowBorder="False" />
+                    <dxb:BarStaticItem x:Name="biRowValue"
+                                       Content="1" />
+                    <dxb:BarStaticItem x:Name="biColumn"
+                                       Content="Column:"
+                                       ShowBorder="False" />
+                    <dxb:BarStaticItem x:Name="biColumnValue"
+                                       Content="1" />
+                </dxr:RibbonStatusBarControl.LeftItems>
+                <dxr:RibbonStatusBarControl.RightItems>
+                    <dxb:BarCheckItem x:Name="biLeft"
+                                      Glyph="{dx:DXImage Image=AlignLeft_16x16.png}"
+                                      GroupIndex="1"
+                                      IsChecked="True" />
+                    <dxb:BarCheckItem x:Name="biCenter"
+                                      Glyph="{dx:DXImage Image=AlignCenter_16x16.png}"
+                                      GroupIndex="1" />
+                    <dxb:BarCheckItem x:Name="biRight"
+                                      Glyph="{dx:DXImage Image=AlignRight_16x16.png}"
+                                      GroupIndex="1" />
+                </dxr:RibbonStatusBarControl.RightItems>-->
+        </dxr:RibbonStatusBarControl>
+    </Grid>
+</UserControl>

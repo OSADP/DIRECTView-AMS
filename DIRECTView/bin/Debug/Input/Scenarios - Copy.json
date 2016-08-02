@@ -1,0 +1,234 @@
+{
+    "OperationalConditionsList": {
+        "OC-1": { "ID": "OC-1", "Cluster": "4", "Description": "Medium to High Demand, Major Incident, Without Percipitation" },
+        "OC-2": { "ID": "OC-2", "Cluster": "3", "Description": "High Demand, Minor Incident, Without Percipitation" },
+        "OC-3": { "ID": "OC-3", "Cluster": "1", "Description": "Medium Demand, Minor Incident, Without Percipitation" },
+        "OC-4": { "ID": "OC-4", "Cluster": "2", "Description": "High Demand, Minor Incident, With Percipitation" }
+    },
+    "ScenariosList": [
+        {
+            "ID": "14",
+            "OperationalConditions": "OC-1",
+            "Folder": "OC-1 Scenario 14 [ShoulderLanes]",
+            "Description": "Scenario 14 OC-1 ATDMStrategies = [ShouldLanes], Assesment Attributes = {DemandAccuracy = 100%, Traffic Management Latency = 0 Minutes, Prediction Horizon = 30 Minutes, Coverage Extension = 3 Miles}",
+            "ATDMStrategies": { "DynamicShoulderLanes": true, "AdaptiveRampMetering": false, "DynamicSignalTiming": false, "DynamicRouting": false, "DynamicallyPricedParking": false },
+            "AssesmentAttributes": {
+                "DemandPredictionAccurcy": { "ErrorInDemandPrediction_Negative_10_Percent": false, "ErrorInDemandPrediction_Negative_05_Percent": false, "ErrorInDemandPrediction__________00_Percent": true, "ErrorInDemandPrediction_Positive_05_Percent": false, "ErrorInDemandPrediction_Positive_10_Percent": false, "Value": "00 %" },
+                "TrafficManagementLatency": { "TrafficManagementLatency_00_Minutes": true, "TrafficManagementLatency_05_Minutes": false, "TrafficManagementLatency_10_Minutes": false, "Value": "00 Minutes" },
+                "PredictionHorizon": { "PredictionHorizon_15_Minutes": false, "PredictionHorizon_30_Minutes": true, "PredictionHorizon_60_Minutes": false, "Value": "30 Minutes" },
+                "CoverageExtentVariation": { "CoverageExtentVariation_02_Miles": false, "CoverageExtentVariation_03_Miles": true, "CoverageExtentVariation_04_Miles": false, "Value": "3 Miles" }
+            },
+            "IsChecked": false
+        },
+        {
+            "ID": "15",
+            "OperationalConditions": "OC-1",
+            "Folder": "OC-1 Scenario 15 [ShoulderLanes, DMS]",
+            "Description": "Scenario 14 OC-1 ATDMStrategies = [ShouldLanes], Assesment Attributes = {DemandAccuracy = 100%, Traffic Management Latency = 0 Minutes, Prediction Horizon = 30 Minutes, Coverage Extension = 3 Miles}",
+            "ATDMStrategies": { "DynamicShoulderLanes": true, "AdaptiveRampMetering": false, "DynamicSignalTiming": false, "DynamicRouting": true, "DynamicallyPricedParking": false },
+            "AssesmentAttributes": {
+                "DemandPredictionAccurcy": { "ErrorInDemandPrediction_Negative_10_Percent": false, "ErrorInDemandPrediction_Negative_05_Percent": false, "ErrorInDemandPrediction__________00_Percent": true, "ErrorInDemandPrediction_Positive_05_Percent": false, "ErrorInDemandPrediction_Positive_10_Percent": false, "Value": "00 %" },
+                "TrafficManagementLatency": { "TrafficManagementLatency_00_Minutes": true, "TrafficManagementLatency_05_Minutes": false, "TrafficManagementLatency_10_Minutes": false, "Value": "00 Minutes" },
+                "PredictionHorizon": { "PredictionHorizon_15_Minutes": false, "PredictionHorizon_30_Minutes": true, "PredictionHorizon_60_Minutes": false, "Value": "30 Minutes" },
+                "CoverageExtentVariation": { "CoverageExtentVariation_02_Miles": false, "CoverageExtentVariation_03_Miles": true, "CoverageExtentVariation_04_Miles": false, "Value": "3 Miles" }
+            },
+            "IsChecked": false
+        },
+        {
+            "ID": "16",
+            "OperationalConditions": "OC-1",
+            "Folder": "OC-1 Scenario 16 [Signal]",
+            "Description": "Scenario 14 OC-1 ATDMStrategies = [ShouldLanes], Assesment Attributes = {DemandAccuracy = 100%, Traffic Management Latency = 0 Minutes, Prediction Horizon = 30 Minutes, Coverage Extension = 3 Miles}",
+            "ATDMStrategies": { "DynamicShoulderLanes": false, "AdaptiveRampMetering": false, "DynamicSignalTiming": true, "DynamicRouting": false, "DynamicallyPricedParking": false },
+            "AssesmentAttributes": {
+                "DemandPredictionAccurcy": { "ErrorInDemandPrediction_Negative_10_Percent": false, "ErrorInDemandPrediction_Negative_05_Percent": false, "ErrorInDemandPrediction__________00_Percent": true, "ErrorInDemandPrediction_Positive_05_Percent": false, "ErrorInDemandPrediction_Positive_10_Percent": false, "Value": "00 %" },
+                "TrafficManagementLatency": { "TrafficManagementLatency_00_Minutes": true, "TrafficManagementLatency_05_Minutes": false, "TrafficManagementLatency_10_Minutes": false, "Value": "00 Minutes" },
+                "PredictionHorizon": { "PredictionHorizon_15_Minutes": false, "PredictionHorizon_30_Minutes": true, "PredictionHorizon_60_Minutes": false, "Value": "30 Minutes" },
+                "CoverageExtentVariation": { "CoverageExtentVariation_02_Miles": false, "CoverageExtentVariation_03_Miles": true, "CoverageExtentVariation_04_Miles": false, "Value": "3 Miles" }
+            },
+            "IsChecked": false
+        },
+        {
+            "ID": "17",
+            "OperationalConditions": "OC-1",
+            "Folder": "OC-1 Scenario 17 [Signal, DMS]",
+            "Description": "Scenario 14 OC-1 ATDMStrategies = [ShouldLanes], Assesment Attributes = {DemandAccuracy = 100%, Traffic Management Latency = 0 Minutes, Prediction Horizon = 30 Minutes, Coverage Extension = 3 Miles}",
+            "ATDMStrategies": { "DynamicShoulderLanes": false, "AdaptiveRampMetering": false, "DynamicSignalTiming": true, "DynamicRouting": true, "DynamicallyPricedParking": false },
+            "AssesmentAttributes": {
+                "DemandPredictionAccurcy": { "ErrorInDemandPrediction_Negative_10_Percent": false, "ErrorInDemandPrediction_Negative_05_Percent": false, "ErrorInDemandPrediction__________00_Percent": true, "ErrorInDemandPrediction_Positive_05_Percent": false, "ErrorInDemandPrediction_Positive_10_Percent": false, "Value": "00 %" },
+                "TrafficManagementLatency": { "TrafficManagementLatency_00_Minutes": true, "TrafficManagementLatency_05_Minutes": false, "TrafficManagementLatency_10_Minutes": false, "Value": "00 Minutes" },
+                "PredictionHorizon": { "PredictionHorizon_15_Minutes": false, "PredictionHorizon_30_Minutes": true, "PredictionHorizon_60_Minutes": false, "Value": "30 Minutes" },
+                "CoverageExtentVariation": { "CoverageExtentVariation_02_Miles": false, "CoverageExtentVariation_03_Miles": true, "CoverageExtentVariation_04_Miles": false, "Value": "3 Miles" }
+            },
+            "IsChecked": false
+        },
+        {
+            "ID": "18",
+            "OperationalConditions": "OC-1",
+            "Folder": "OC-1 Scenario 18 [RampMeters]",
+            "Description": "Scenario 14 OC-1 ATDMStrategies = [ShouldLanes], Assesment Attributes = {DemandAccuracy = 100%, Traffic Management Latency = 0 Minutes, Prediction Horizon = 30 Minutes, Coverage Extension = 3 Miles}",
+            "ATDMStrategies": { "DynamicShoulderLanes": false, "AdaptiveRampMetering": true, "DynamicSignalTiming": false, "DynamicRouting": false, "DynamicallyPricedParking": false },
+            "AssesmentAttributes": {
+                "DemandPredictionAccurcy": { "ErrorInDemandPrediction_Negative_10_Percent": false, "ErrorInDemandPrediction_Negative_05_Percent": false, "ErrorInDemandPrediction__________00_Percent": true, "ErrorInDemandPrediction_Positive_05_Percent": false, "ErrorInDemandPrediction_Positive_10_Percent": false, "Value": "00 %" },
+                "TrafficManagementLatency": { "TrafficManagementLatency_00_Minutes": true, "TrafficManagementLatency_05_Minutes": false, "TrafficManagementLatency_10_Minutes": false, "Value": "00 Minutes" },
+                "PredictionHorizon": { "PredictionHorizon_15_Minutes": false, "PredictionHorizon_30_Minutes": true, "PredictionHorizon_60_Minutes": false, "Value": "30 Minutes" },
+                "CoverageExtentVariation": { "CoverageExtentVariation_02_Miles": false, "CoverageExtentVariation_03_Miles": true, "CoverageExtentVariation_04_Miles": false, "Value": "3 Miles" }
+            },
+            "IsChecked": false
+        },
+        {
+            "ID": "19",
+            "OperationalConditions": "OC-1",
+            "Folder": "OC-1 Scenario 19 [RampMeters, Signal, DMS]",
+            "Description": "Scenario 14 OC-1 ATDMStrategies = [ShouldLanes], Assesment Attributes = {DemandAccuracy = 100%, Traffic Management Latency = 0 Minutes, Prediction Horizon = 30 Minutes, Coverage Extension = 3 Miles}",
+            "ATDMStrategies": { "DynamicShoulderLanes": false, "AdaptiveRampMetering": true, "DynamicSignalTiming": true, "DynamicRouting": true, "DynamicallyPricedParking": false },
+            "AssesmentAttributes": {
+                "DemandPredictionAccurcy": { "ErrorInDemandPrediction_Negative_10_Percent": false, "ErrorInDemandPrediction_Negative_05_Percent": false, "ErrorInDemandPrediction__________00_Percent": true, "ErrorInDemandPrediction_Positive_05_Percent": false, "ErrorInDemandPrediction_Positive_10_Percent": false, "Value": "00 %" },
+                "TrafficManagementLatency": { "TrafficManagementLatency_00_Minutes": true, "TrafficManagementLatency_05_Minutes": false, "TrafficManagementLatency_10_Minutes": false, "Value": "00 Minutes" },
+                "PredictionHorizon": { "PredictionHorizon_15_Minutes": false, "PredictionHorizon_30_Minutes": true, "PredictionHorizon_60_Minutes": false, "Value": "30 Minutes" },
+                "CoverageExtentVariation": { "CoverageExtentVariation_02_Miles": false, "CoverageExtentVariation_03_Miles": true, "CoverageExtentVariation_04_Miles": false, "Value": "3 Miles" }
+            },
+            "IsChecked": false
+        },
+        {
+            "ID": "24",
+            "OperationalConditions": "OC-1",
+            "Folder": "OC-1 Scenario 24 [Signal, DMS] PredictionAccuracySensitivity[DemandOverestimation 5%]",
+            "Description": "Scenario 14 OC-1 ATDMStrategies = [ShouldLanes], Assesment Attributes = {DemandAccuracy = 100%, Traffic Management Latency = 0 Minutes, Prediction Horizon = 30 Minutes, Coverage Extension = 3 Miles}",
+            "ATDMStrategies": { "DynamicShoulderLanes": false, "AdaptiveRampMetering": false, "DynamicSignalTiming": true, "DynamicRouting": true, "DynamicallyPricedParking": false },
+            "AssesmentAttributes": {
+                "DemandPredictionAccurcy": { "ErrorInDemandPrediction_Negative_10_Percent": false, "ErrorInDemandPrediction_Negative_05_Percent": false, "ErrorInDemandPrediction__________00_Percent": false, "ErrorInDemandPrediction_Positive_05_Percent": true, "ErrorInDemandPrediction_Positive_10_Percent": false, "Value": "05 %" },
+                "TrafficManagementLatency": { "TrafficManagementLatency_00_Minutes": true, "TrafficManagementLatency_05_Minutes": false, "TrafficManagementLatency_10_Minutes": false, "Value": "00 Minutes" },
+                "PredictionHorizon": { "PredictionHorizon_15_Minutes": false, "PredictionHorizon_30_Minutes": true, "PredictionHorizon_60_Minutes": false, "Value": "30 Minutes" },
+                "CoverageExtentVariation": { "CoverageExtentVariation_02_Miles": false, "CoverageExtentVariation_03_Miles": true, "CoverageExtentVariation_04_Miles": false, "Value": "3 Miles" }
+            },
+            "IsChecked": false
+        },
+        {
+            "ID": "24",
+            "OperationalConditions": "OC-1",
+            "Folder": "OC-1 Scenario 24 [Signal, DMS] PredictionAccuracySensitivity[DemandOverestimation 10%]",
+            "Description": "Scenario 14 OC-1 ATDMStrategies = [ShouldLanes], Assesment Attributes = {DemandAccuracy = 100%, Traffic Management Latency = 0 Minutes, Prediction Horizon = 30 Minutes, Coverage Extension = 3 Miles}",
+            "ATDMStrategies": { "DynamicShoulderLanes": false, "AdaptiveRampMetering": false, "DynamicSignalTiming": true, "DynamicRouting": true, "DynamicallyPricedParking": false },
+            "AssesmentAttributes": {
+                "DemandPredictionAccurcy": { "ErrorInDemandPrediction_Negative_10_Percent": false, "ErrorInDemandPrediction_Negative_05_Percent": false, "ErrorInDemandPrediction__________00_Percent": false, "ErrorInDemandPrediction_Positive_05_Percent": false, "ErrorInDemandPrediction_Positive_10_Percent": true, "Value": "10 %" },
+                "TrafficManagementLatency": { "TrafficManagementLatency_00_Minutes": true, "TrafficManagementLatency_05_Minutes": false, "TrafficManagementLatency_10_Minutes": false, "Value": "00 Minutes" },
+                "PredictionHorizon": { "PredictionHorizon_15_Minutes": false, "PredictionHorizon_30_Minutes": true, "PredictionHorizon_60_Minutes": false, "Value": "30 Minutes" },
+                "CoverageExtentVariation": { "CoverageExtentVariation_02_Miles": false, "CoverageExtentVariation_03_Miles": true, "CoverageExtentVariation_04_Miles": false, "Value": "3 Miles" }
+            },
+            "IsChecked": false
+        },
+        {
+            "ID": "24",
+            "OperationalConditions": "OC-1",
+            "Folder": "OC-1 Scenario 24 [Signal, DMS] PredictionAccuracySensitivity[DemandUnderestimation 5%]",
+            "Description": "Scenario 14 OC-1 ATDMStrategies = [ShouldLanes], Assesment Attributes = {DemandAccuracy = 100%, Traffic Management Latency = 0 Minutes, Prediction Horizon = 30 Minutes, Coverage Extension = 3 Miles}",
+            "ATDMStrategies": { "DynamicShoulderLanes": false, "AdaptiveRampMetering": false, "DynamicSignalTiming": true, "DynamicRouting": true, "DynamicallyPricedParking": false },
+            "AssesmentAttributes": {
+                "DemandPredictionAccurcy": { "ErrorInDemandPrediction_Negative_10_Percent": false, "ErrorInDemandPrediction_Negative_05_Percent": true, "ErrorInDemandPrediction__________00_Percent": false, "ErrorInDemandPrediction_Positive_05_Percent": false, "ErrorInDemandPrediction_Positive_10_Percent": false, "Value": "-05 %" },
+                "TrafficManagementLatency": { "TrafficManagementLatency_00_Minutes": true, "TrafficManagementLatency_05_Minutes": false, "TrafficManagementLatency_10_Minutes": false, "Value": "00 Minutes" },
+                "PredictionHorizon": { "PredictionHorizon_15_Minutes": false, "PredictionHorizon_30_Minutes": true, "PredictionHorizon_60_Minutes": false, "Value": "30 Minutes" },
+                "CoverageExtentVariation": { "CoverageExtentVariation_02_Miles": false, "CoverageExtentVariation_03_Miles": true, "CoverageExtentVariation_04_Miles": false, "Value": "3 Miles" }
+            },
+            "IsChecked": false
+        },
+        {
+            "ID": "24",
+            "OperationalConditions": "OC-1",
+            "Folder": "OC-1 Scenario 24 [Signal, DMS] PredictionAccuracySensitivity[DemandUnderestimation 10%]",
+            "Description": "Scenario 14 OC-1 ATDMStrategies = [ShouldLanes], Assesment Attributes = {DemandAccuracy = 100%, Traffic Management Latency = 0 Minutes, Prediction Horizon = 30 Minutes, Coverage Extension = 3 Miles}",
+            "ATDMStrategies": { "DynamicShoulderLanes": false, "AdaptiveRampMetering": false, "DynamicSignalTiming": true, "DynamicRouting": true, "DynamicallyPricedParking": false },
+            "AssesmentAttributes": {
+                "DemandPredictionAccurcy": { "ErrorInDemandPrediction_Negative_10_Percent": true, "ErrorInDemandPrediction_Negative_05_Percent": false, "ErrorInDemandPrediction__________00_Percent": false, "ErrorInDemandPrediction_Positive_05_Percent": false, "ErrorInDemandPrediction_Positive_10_Percent": false, "Value": "-10 %" },
+                "TrafficManagementLatency": { "TrafficManagementLatency_00_Minutes": true, "TrafficManagementLatency_05_Minutes": false, "TrafficManagementLatency_10_Minutes": false, "Value": "00 Minutes" },
+                "PredictionHorizon": { "PredictionHorizon_15_Minutes": false, "PredictionHorizon_30_Minutes": true, "PredictionHorizon_60_Minutes": false, "Value": "30 Minutes" },
+                "CoverageExtentVariation": { "CoverageExtentVariation_02_Miles": false, "CoverageExtentVariation_03_Miles": true, "CoverageExtentVariation_04_Miles": false, "Value": "3 Miles" }
+            },
+            "IsChecked": false
+        },
+        {
+            "ID": "24",
+            "OperationalConditions": "OC-1",
+            "Folder": "OC-1 Scenario 24 [Signal, DMS] PredictionHorizonSensitivity 15 Minutes",
+            "Description": "Scenario 14 OC-1 ATDMStrategies = [ShouldLanes], Assesment Attributes = {DemandAccuracy = 100%, Traffic Management Latency = 0 Minutes, Prediction Horizon = 30 Minutes, Coverage Extension = 3 Miles}",
+            "ATDMStrategies": { "DynamicShoulderLanes": false, "AdaptiveRampMetering": false, "DynamicSignalTiming": true, "DynamicRouting": true, "DynamicallyPricedParking": false },
+            "AssesmentAttributes": {
+                "DemandPredictionAccurcy": { "ErrorInDemandPrediction_Negative_10_Percent": false, "ErrorInDemandPrediction_Negative_05_Percent": false, "ErrorInDemandPrediction__________00_Percent": true, "ErrorInDemandPrediction_Positive_05_Percent": false, "ErrorInDemandPrediction_Positive_10_Percent": false, "Value": "00 %" },
+                "TrafficManagementLatency": { "TrafficManagementLatency_00_Minutes": true, "TrafficManagementLatency_05_Minutes": false, "TrafficManagementLatency_10_Minutes": false, "Value": "00 Minutes" },
+                "PredictionHorizon": { "PredictionHorizon_15_Minutes": true, "PredictionHorizon_30_Minutes": false, "PredictionHorizon_60_Minutes": false, "Value": "15 Minutes" },
+                "CoverageExtentVariation": { "CoverageExtentVariation_02_Miles": false, "CoverageExtentVariation_03_Miles": true, "CoverageExtentVariation_04_Miles": false, "Value": "3 Miles" }
+            },
+            "IsChecked": false
+        },
+        {
+            "ID": "24",
+            "OperationalConditions": "OC-1",
+            "Folder": "OC-1 Scenario 24 [Signal, DMS] PredictionHorizonSensitivity 60 Minutes",
+            "Description": "Scenario 14 OC-1 ATDMStrategies = [ShouldLanes], Assesment Attributes = {DemandAccuracy = 100%, Traffic Management Latency = 0 Minutes, Prediction Horizon = 30 Minutes, Coverage Extension = 3 Miles}",
+            "ATDMStrategies": { "DynamicShoulderLanes": false, "AdaptiveRampMetering": false, "DynamicSignalTiming": true, "DynamicRouting": true, "DynamicallyPricedParking": false },
+            "AssesmentAttributes": {
+                "DemandPredictionAccurcy": { "ErrorInDemandPrediction_Negative_10_Percent": false, "ErrorInDemandPrediction_Negative_05_Percent": false, "ErrorInDemandPrediction__________00_Percent": true, "ErrorInDemandPrediction_Positive_05_Percent": false, "ErrorInDemandPrediction_Positive_10_Percent": false, "Value": "00 %" },
+                "TrafficManagementLatency": { "TrafficManagementLatency_00_Minutes": true, "TrafficManagementLatency_05_Minutes": false, "TrafficManagementLatency_10_Minutes": false, "Value": "00 Minutes" },
+                "PredictionHorizon": { "PredictionHorizon_15_Minutes": false, "PredictionHorizon_30_Minutes": false, "PredictionHorizon_60_Minutes": true, "Value": "60 Minutes" },
+                "CoverageExtentVariation": { "CoverageExtentVariation_02_Miles": false, "CoverageExtentVariation_03_Miles": true, "CoverageExtentVariation_04_Miles": false, "Value": "3 Miles" }
+            },
+            "IsChecked": false
+        },
+        {
+            "ID": "28",
+            "OperationalConditions": "OC-1",
+            "Folder": "OC-1 Scenario 28 [Signal, DMS] CoverageExtension[2 Miles]",
+            "Description": "Scenario 14 OC-1 ATDMStrategies = [ShouldLanes], Assesment Attributes = {DemandAccuracy = 100%, Traffic Management Latency = 0 Minutes, Prediction Horizon = 30 Minutes, Coverage Extension = 3 Miles}",
+            "ATDMStrategies": { "DynamicShoulderLanes": false, "AdaptiveRampMetering": false, "DynamicSignalTiming": true, "DynamicRouting": true, "DynamicallyPricedParking": false },
+            "AssesmentAttributes": {
+                "DemandPredictionAccurcy": { "ErrorInDemandPrediction_Negative_10_Percent": false, "ErrorInDemandPrediction_Negative_05_Percent": false, "ErrorInDemandPrediction__________00_Percent": true, "ErrorInDemandPrediction_Positive_05_Percent": false, "ErrorInDemandPrediction_Positive_10_Percent": false, "Value": "00 %" },
+                "TrafficManagementLatency": { "TrafficManagementLatency_00_Minutes": true, "TrafficManagementLatency_05_Minutes": false, "TrafficManagementLatency_10_Minutes": false, "Value": "00 Minutes" },
+                "PredictionHorizon": { "PredictionHorizon_15_Minutes": false, "PredictionHorizon_30_Minutes": true, "PredictionHorizon_60_Minutes": false, "Value": "30 Minutes" },
+                "CoverageExtentVariation": { "CoverageExtentVariation_02_Miles": true, "CoverageExtentVariation_03_Miles": false, "CoverageExtentVariation_04_Miles": false, "Value": "2 Miles" }
+            },
+            "IsChecked": false
+        },
+        {
+            "ID": "28",
+            "OperationalConditions": "OC-1",
+            "Folder": "OC-1 Scenario 28 [Signal, DMS] CoverageExtension[4 Miles]",
+            "Description": "Scenario 14 OC-1 ATDMStrategies = [ShouldLanes], Assesment Attributes = {DemandAccuracy = 100%, Traffic Management Latency = 0 Minutes, Prediction Horizon = 30 Minutes, Coverage Extension = 3 Miles}",
+            "ATDMStrategies": { "DynamicShoulderLanes": false, "AdaptiveRampMetering": false, "DynamicSignalTiming": true, "DynamicRouting": true, "DynamicallyPricedParking": false },
+            "AssesmentAttributes": {
+                "DemandPredictionAccurcy": { "ErrorInDemandPrediction_Negative_10_Percent": false, "ErrorInDemandPrediction_Negative_05_Percent": false, "ErrorInDemandPrediction__________00_Percent": true, "ErrorInDemandPrediction_Positive_05_Percent": false, "ErrorInDemandPrediction_Positive_10_Percent": false, "Value": "00 %" },
+                "TrafficManagementLatency": { "TrafficManagementLatency_00_Minutes": true, "TrafficManagementLatency_05_Minutes": false, "TrafficManagementLatency_10_Minutes": false, "Value": "00 Minutes" },
+                "PredictionHorizon": { "PredictionHorizon_15_Minutes": false, "PredictionHorizon_30_Minutes": true, "PredictionHorizon_60_Minutes": false, "Value": "30 Minutes" },
+                "CoverageExtentVariation": { "CoverageExtentVariation_02_Miles": false, "CoverageExtentVariation_03_Miles": false, "CoverageExtentVariation_04_Miles": true, "Value": "4 Miles" }
+            },
+            "IsChecked": false
+        },
+        {
+            "ID": "31",
+            "OperationalConditions": "OC-1",
+            "Folder": "OC-1 Scenario 31 [ShoulderLanes, Signal, DMS]",
+            "Description": "Scenario 14 OC-1 ATDMStrategies = [ShouldLanes], Assesment Attributes = {DemandAccuracy = 100%, Traffic Management Latency = 0 Minutes, Prediction Horizon = 30 Minutes, Coverage Extension = 3 Miles}",
+            "ATDMStrategies": { "DynamicShoulderLanes": true, "AdaptiveRampMetering": false, "DynamicSignalTiming": true, "DynamicRouting": true, "DynamicallyPricedParking": false },
+            "AssesmentAttributes": {
+                "DemandPredictionAccurcy": { "ErrorInDemandPrediction_Negative_10_Percent": false, "ErrorInDemandPrediction_Negative_05_Percent": false, "ErrorInDemandPrediction__________00_Percent": true, "ErrorInDemandPrediction_Positive_05_Percent": false, "ErrorInDemandPrediction_Positive_10_Percent": false, "Value": "00 %" },
+                "TrafficManagementLatency": { "TrafficManagementLatency_00_Minutes": true, "TrafficManagementLatency_05_Minutes": false, "TrafficManagementLatency_10_Minutes": false, "Value": "00 Minutes" },
+                "PredictionHorizon": { "PredictionHorizon_15_Minutes": false, "PredictionHorizon_30_Minutes": true, "PredictionHorizon_60_Minutes": false, "Value": "30 Minutes" },
+                "CoverageExtentVariation": { "CoverageExtentVariation_02_Miles": false, "CoverageExtentVariation_03_Miles": true, "CoverageExtentVariation_04_Miles": false, "Value": "3 Miles" }
+            },
+            "IsChecked": false
+        },
+        {
+            "ID": "32",
+            "OperationalConditions": "OC-1",
+            "Folder": "OC-1 Scenario 32 [ShoulderLanes, RampMeters, Signal, DMS]",
+            "Description": "Scenario 14 OC-1 ATDMStrategies = [ShouldLanes], Assesment Attributes = {DemandAccuracy = 100%, Traffic Management Latency = 0 Minutes, Prediction Horizon = 30 Minutes, Coverage Extension = 3 Miles}",
+            "ATDMStrategies": { "DynamicShoulderLanes": true, "AdaptiveRampMetering": true, "DynamicSignalTiming": true, "DynamicRouting": true, "DynamicallyPricedParking": false },
+            "AssesmentAttributes": {
+                "DemandPredictionAccurcy": { "ErrorInDemandPrediction_Negative_10_Percent": false, "ErrorInDemandPrediction_Negative_05_Percent": false, "ErrorInDemandPrediction__________00_Percent": true, "ErrorInDemandPrediction_Positive_05_Percent": false, "ErrorInDemandPrediction_Positive_10_Percent": false, "Value": "00 %" },
+                "TrafficManagementLatency": { "TrafficManagementLatency_00_Minutes": true, "TrafficManagementLatency_05_Minutes": false, "TrafficManagementLatency_10_Minutes": false, "Value": "00 Minutes" },
+                "PredictionHorizon": { "PredictionHorizon_15_Minutes": false, "PredictionHorizon_30_Minutes": true, "PredictionHorizon_60_Minutes": false, "Value": "30 Minutes" },
+                "CoverageExtentVariation": { "CoverageExtentVariation_02_Miles": false, "CoverageExtentVariation_03_Miles": true, "CoverageExtentVariation_04_Miles": false, "Value": "3 Miles" }
+            },
+            "IsChecked": false
+        }
+    ]
+}

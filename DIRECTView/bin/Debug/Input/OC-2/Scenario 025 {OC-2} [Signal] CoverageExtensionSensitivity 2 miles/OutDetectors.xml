@@ -1,0 +1,1635 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OutDetectors><!--Sample OutDetector <OutDetector ID="n165n167" LocationName="Custer_North_of_Renner" StreetName="Custer" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA"> <TrafficData StartTime="00:00:00" EndTime="01:00:00" ObservedVolume="23" ModelVolume="23" ObservedSpeed="5" ModelSpeed="5"/> </OutDetector>-->
+  <OutDetectors ID="n137n138" LocationName="US 75 HOV N 15th St TO Park Blvd" StreetName="HOV" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="124" ModelVolume="22"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="575" ModelVolume="77"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="702" ModelVolume="114"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1099" ModelVolume="119"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="772" ModelVolume="264"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="210" ModelVolume="66"/>
+  </OutDetectors>
+  <OutDetectors ID="n138n139" LocationName="US 75 HOV N Park Blvd TO Parker Rd" StreetName="HOV" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="686" ModelVolume="22"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="934" ModelVolume="76"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1459" ModelVolume="115"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="2023" ModelVolume="118"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1582" ModelVolume="262"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="817" ModelVolume="69"/>
+  </OutDetectors>
+  <OutDetectors ID="n139n5640" LocationName="US 75 HOV N Spring Creek Pkwy TO Legacy Dr" StreetName="HOV" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="197" ModelVolume="36"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="270" ModelVolume="268"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="802" ModelVolume="502"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1281" ModelVolume="475"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="843" ModelVolume="400"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="268" ModelVolume="79"/>
+  </OutDetectors>
+  <OutDetectors ID="n140n142" LocationName="US 75 HOV S Park Blvd TO 15th St" StreetName="HOV" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="79" ModelVolume="2"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="201" ModelVolume="7"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="238" ModelVolume="9"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="321" ModelVolume="7"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="311" ModelVolume="5"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="126" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n142n4421" LocationName="US 75 HOV S 15th St TO Plano Pkwy" StreetName="HOV" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="113" ModelVolume="59"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="198" ModelVolume="68"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="308" ModelVolume="97"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="374" ModelVolume="66"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="416" ModelVolume="103"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="159" ModelVolume="11"/>
+  </OutDetectors>
+  <OutDetectors ID="n180n181" LocationName="Beltline EX and FR75" StreetName="Arterial" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="516" ModelVolume="126"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="544" ModelVolume="361"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="621" ModelVolume="496"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="759" ModelVolume="549"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="646" ModelVolume="677"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="445" ModelVolume="1"/>
+  </OutDetectors>
+  <OutDetectors ID="n180n187" LocationName="0002" StreetName="n180n187" Direction="South" ScreenLine="0002" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="2793"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="3543"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="5119"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="5266"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="4849"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="1042"/>
+  </OutDetectors>
+  <OutDetectors ID="n181n3332" LocationName="0002" StreetName="n181n3332" Direction="South" ScreenLine="0002" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="896"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="1122"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="2034"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="2219"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="1898"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="40"/>
+  </OutDetectors>
+  <OutDetectors ID="n18212n181" LocationName="Beltline EX and FR75" StreetName="Arterial" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1221" ModelVolume="760"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1323" ModelVolume="758"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1358" ModelVolume="1551"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1378" ModelVolume="1634"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1075" ModelVolume="1196"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="789" ModelVolume="36"/>
+  </OutDetectors>
+  <OutDetectors ID="n18214n4076" LocationName="Campbell EX from US75" StreetName="Arterial" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="961" ModelVolume="497"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1046" ModelVolume="773"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1311" ModelVolume="777"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1545" ModelVolume="1455"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1223" ModelVolume="1508"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="742" ModelVolume="128"/>
+  </OutDetectors>
+  <OutDetectors ID="n183n184" LocationName="0001" StreetName="n183n184" Direction="North" ScreenLine="0001" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="1407"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="1726"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="2124"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="2542"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="1523"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="51"/>
+  </OutDetectors>
+  <OutDetectors ID="n185n4223" LocationName="0001" StreetName="n185n4223" Direction="North" ScreenLine="0001" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="1123"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="916"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="775"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="931"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="1019"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="58"/>
+  </OutDetectors>
+  <OutDetectors ID="n188n189" LocationName="0001" StreetName="n188n189" Direction="North" ScreenLine="0001" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="2693"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="4570"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="4368"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="6235"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="5552"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="1325"/>
+  </OutDetectors>
+  <OutDetectors ID="n18n5708" LocationName="0005" StreetName="n18n5708" Direction="North" ScreenLine="0005" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="277"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="1738"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="1400"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="1295"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="574"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="20"/>
+  </OutDetectors>
+  <OutDetectors ID="n191n192" LocationName="US 75 HOV S Arapaho Rd TO Belt Line Rd" StreetName="HOV" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="72" ModelVolume="50"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="137" ModelVolume="72"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="212" ModelVolume="90"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="259" ModelVolume="73"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="305" ModelVolume="97"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="135" ModelVolume="22"/>
+  </OutDetectors>
+  <OutDetectors ID="n193n3308" LocationName="US 75 HOV S Belt Line Rd TO Spring Valley Rd" StreetName="HOV" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="359" ModelVolume="50"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="477" ModelVolume="71"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="643" ModelVolume="90"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="661" ModelVolume="74"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="698" ModelVolume="94"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="512" ModelVolume="25"/>
+  </OutDetectors>
+  <OutDetectors ID="n199n200" LocationName="US 75 HOV N Belt Line Rd TO Arapaho Rd" StreetName="HOV" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="88" ModelVolume="34"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="156" ModelVolume="133"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="372" ModelVolume="242"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="614" ModelVolume="247"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="416" ModelVolume="441"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="151" ModelVolume="60"/>
+  </OutDetectors>
+  <OutDetectors ID="n203112n2174" LocationName="0003" StreetName="n203112n2174" Direction="North" ScreenLine="0003" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="284"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="454"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="637"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="182"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="426"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="1"/>
+  </OutDetectors>
+  <OutDetectors ID="n204n3324" LocationName="CentennialGreenville" StreetName="Arterial" Direction="WB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="822" ModelVolume="538"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="905" ModelVolume="512"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="869" ModelVolume="427"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="956" ModelVolume="418"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="861" ModelVolume="818"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="726" ModelVolume="96"/>
+  </OutDetectors>
+  <OutDetectors ID="n2059n2058" LocationName="US 75 S Lovers Ln TO University Blvd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="6786" ModelVolume="3413"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="5881" ModelVolume="4599"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4942" ModelVolume="5380"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5866" ModelVolume="6197"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4768" ModelVolume="5094"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3847" ModelVolume="980"/>
+  </OutDetectors>
+  <OutDetectors ID="n2083n2084" LocationName="US 75 N SMU Blvd TO University Blvd" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="7134" ModelVolume="4716"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="6592" ModelVolume="4938"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="6911" ModelVolume="5395"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5647" ModelVolume="5111"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5223" ModelVolume="5662"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="5740" ModelVolume="139"/>
+  </OutDetectors>
+  <OutDetectors ID="n2084n2056" LocationName="US 75 N University Blvd TO Lovers Ln" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="6247" ModelVolume="4707"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="6277" ModelVolume="4937"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="6798" ModelVolume="5394"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="6260" ModelVolume="5106"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5281" ModelVolume="5674"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="5990" ModelVolume="143"/>
+  </OutDetectors>
+  <OutDetectors ID="n2090n733" LocationName="US 75 S Mockingbird Ln TO McCommas Blvd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="6524" ModelVolume="3119"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="6702" ModelVolume="4410"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5884" ModelVolume="5431"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="6190" ModelVolume="5960"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5353" ModelVolume="4759"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="2833" ModelVolume="956"/>
+  </OutDetectors>
+  <OutDetectors ID="n20n4482" LocationName="US 75 S Park Blvd TO 15th St" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3078" ModelVolume="1866"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3060" ModelVolume="2470"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3565" ModelVolume="3646"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4017" ModelVolume="3749"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="3575" ModelVolume="3973"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="2830" ModelVolume="567"/>
+  </OutDetectors>
+  <OutDetectors ID="n2110n2099" LocationName="US 75 S Southwestern Blvd TO Lovers Ln" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="2674" ModelVolume="3517"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3231" ModelVolume="4392"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5030" ModelVolume="5018"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5554" ModelVolume="5808"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5405" ModelVolume="5178"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="2998" ModelVolume="1012"/>
+  </OutDetectors>
+  <OutDetectors ID="n21155n3580" LocationName="IH 635 E Audelia Rd TO Miller Rd" StreetName="IH635" Direction="EB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="2107" ModelVolume="3252"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="2708" ModelVolume="4036"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3121" ModelVolume="3471"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="3078" ModelVolume="3795"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="2631" ModelVolume="2547"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="2043" ModelVolume="349"/>
+  </OutDetectors>
+  <OutDetectors ID="n21161n3713" LocationName="IH 635 E Plano Rd TO Walnut Hill Ln" StreetName="IH635" Direction="EB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4336" ModelVolume="1193"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="5274" ModelVolume="865"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5983" ModelVolume="1125"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5752" ModelVolume="816"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5112" ModelVolume="833"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4201" ModelVolume="135"/>
+  </OutDetectors>
+  <OutDetectors ID="n21164n3714" LocationName="IH 635 W Walnut Hill Ln TO Plano Rd" StreetName="IH635" Direction="WB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3902" ModelVolume="849"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3899" ModelVolume="1129"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4027" ModelVolume="1459"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4058" ModelVolume="1875"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="3724" ModelVolume="1654"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3055" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n21180n4085" LocationName="US 75 S Collins Blvd TO Arapaho Rd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="5337" ModelVolume="2878"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="5750" ModelVolume="3787"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="6117" ModelVolume="4916"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="6012" ModelVolume="4964"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5969" ModelVolume="4866"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4901" ModelVolume="910"/>
+  </OutDetectors>
+  <OutDetectors ID="n21213n5731" LocationName="0006" StreetName="n21213n5731" Direction="South" ScreenLine="0006" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="2457"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="2764"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="4143"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="4454"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="4622"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="609"/>
+  </OutDetectors>
+  <OutDetectors ID="n21214n5691" LocationName="US 75 N Parker Rd TO Spring Creek Pkwy" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3534" ModelVolume="2371"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3048" ModelVolume="3020"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4492" ModelVolume="4956"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4576" ModelVolume="5533"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4343" ModelVolume="3920"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3560" ModelVolume="1119"/>
+  </OutDetectors>
+  <OutDetectors ID="n21219n5588" LocationName="US 75 N Bethany Dr TO McDermott Dr" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4737" ModelVolume="1684"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4749" ModelVolume="3142"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5817" ModelVolume="5966"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="6541" ModelVolume="5345"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="6069" ModelVolume="5148"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4775" ModelVolume="1133"/>
+  </OutDetectors>
+  <OutDetectors ID="n21224n588" LocationName="US 75 S Royal Ln TO Meadow Rd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="5383" ModelVolume="3016"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="5786" ModelVolume="3821"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5397" ModelVolume="5585"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4264" ModelVolume="5701"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5559" ModelVolume="5620"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4787" ModelVolume="1081"/>
+  </OutDetectors>
+  <OutDetectors ID="n21227n5876" LocationName="US 75 S Exchange Pkwy TO Allen Dr" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3488" ModelVolume="1924"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3789" ModelVolume="2317"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3899" ModelVolume="4043"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4328" ModelVolume="4038"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4057" ModelVolume="3941"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3185" ModelVolume="82"/>
+  </OutDetectors>
+  <OutDetectors ID="n2133n552" LocationName="0003" StreetName="n2133n552" Direction="North" ScreenLine="0003" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="330"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="624"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="1030"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="1108"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="919"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="251"/>
+  </OutDetectors>
+  <OutDetectors ID="n2140n2154" LocationName="US 75 S Walnut Hill Ln TO Park Ln" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="5715" ModelVolume="3011"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="6347" ModelVolume="3979"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5621" ModelVolume="5521"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5699" ModelVolume="5670"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="6331" ModelVolume="5591"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="5344" ModelVolume="1155"/>
+  </OutDetectors>
+  <OutDetectors ID="n2144n579" LocationName="0003" StreetName="n2144n579" Direction="North" ScreenLine="0003" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="3858"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="6091"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="6622"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="5288"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="6397"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="472"/>
+  </OutDetectors>
+  <OutDetectors ID="n2147n557" LocationName="0003" StreetName="n2147n557" Direction="North" ScreenLine="0003" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="350"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="418"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="768"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="1444"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="1251"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="12"/>
+  </OutDetectors>
+  <OutDetectors ID="n2152n2169" LocationName="US 75 N Park Ln TO Walnut Hill Ln" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="5885" ModelVolume="3935"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="6215" ModelVolume="5838"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5519" ModelVolume="5868"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4881" ModelVolume="4803"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5964" ModelVolume="6022"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="6124" ModelVolume="354"/>
+  </OutDetectors>
+  <OutDetectors ID="n2154n2155" LocationName="US 75 S Park Ln TO Northpark Dr" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="5524" ModelVolume="3140"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="6131" ModelVolume="4098"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5211" ModelVolume="5638"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5426" ModelVolume="5745"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="6099" ModelVolume="5690"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="5181" ModelVolume="1182"/>
+  </OutDetectors>
+  <OutDetectors ID="n2155n2013" LocationName="US 75 S Northpark Dr TO Loop 12/Northwest Hwy" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="5346" ModelVolume="3121"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="5323" ModelVolume="3974"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5094" ModelVolume="4531"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="3994" ModelVolume="5100"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="3653" ModelVolume="4630"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="5535" ModelVolume="946"/>
+  </OutDetectors>
+  <OutDetectors ID="n2169n2145" LocationName="US 75 N Walnut Hill Ln TO Meadow Rd" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="5572" ModelVolume="3914"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="6062" ModelVolume="5825"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5460" ModelVolume="5819"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4690" ModelVolume="4691"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="6087" ModelVolume="5960"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="5972" ModelVolume="374"/>
+  </OutDetectors>
+  <OutDetectors ID="n2176n2177" LocationName="0004" StreetName="n2176n2177" Direction="South" ScreenLine="0004" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="352"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="757"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="985"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="773"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="683"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="50"/>
+  </OutDetectors>
+  <OutDetectors ID="n2215n2234" LocationName="0004" StreetName="n2215n2234" Direction="South" ScreenLine="0004" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="388"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="457"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="761"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="739"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="664"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="38"/>
+  </OutDetectors>
+  <OutDetectors ID="n2220n565" LocationName="0003" StreetName="n2220n565" Direction="North" ScreenLine="0003" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="716"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="955"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="1122"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="1814"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="1066"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="123"/>
+  </OutDetectors>
+  <OutDetectors ID="n2234n2215" LocationName="0003" StreetName="n2234n2215" Direction="North" ScreenLine="0003" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="862"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="1370"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="1646"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="2053"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="1042"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="8"/>
+  </OutDetectors>
+  <OutDetectors ID="n2237n224" LocationName="0003" StreetName="n2237n224" Direction="North" ScreenLine="0003" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="180"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="215"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="528"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="774"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="612"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="50"/>
+  </OutDetectors>
+  <OutDetectors ID="n2238n563" LocationName="0003" StreetName="n2238n563" Direction="North" ScreenLine="0003" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="227"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="274"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="674"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="558"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="460"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="13"/>
+  </OutDetectors>
+  <OutDetectors ID="n224n2237" LocationName="0004" StreetName="n224n2237" Direction="South" ScreenLine="0004" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="30"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="20"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="28"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="40"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="44"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n2291n3335" LocationName="0002" StreetName="n2291n3335" Direction="South" ScreenLine="0002" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="134"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="93"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="303"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="276"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="351"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="11"/>
+  </OutDetectors>
+  <OutDetectors ID="n2301n2302" LocationName="Coit and El Pastel" StreetName="Arterial" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1085" ModelVolume="1210"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1170" ModelVolume="1299"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1276" ModelVolume="1671"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1493" ModelVolume="1612"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1407" ModelVolume="1684"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="1130" ModelVolume="210"/>
+  </OutDetectors>
+  <OutDetectors ID="n2302n2301" LocationName="Coit and El Pastel" StreetName="Arterial" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1200" ModelVolume="699"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1400" ModelVolume="1027"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1830" ModelVolume="1635"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="2220" ModelVolume="2240"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1835" ModelVolume="2098"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="1158" ModelVolume="308"/>
+  </OutDetectors>
+  <OutDetectors ID="n3054n198" LocationName="US 75 HOV N Spring Valley Rd TO Belt Line Rd" StreetName="HOV" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1704" ModelVolume="38"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1868" ModelVolume="136"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1566" ModelVolume="245"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1494" ModelVolume="250"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1598" ModelVolume="444"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="1473" ModelVolume="44"/>
+  </OutDetectors>
+  <OutDetectors ID="n3068n3069" LocationName="Coit and Willow Bend" StreetName="Arterial" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1240" ModelVolume="1222"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1505" ModelVolume="1480"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1498" ModelVolume="1553"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1555" ModelVolume="1429"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1465" ModelVolume="1306"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="1097" ModelVolume="66"/>
+  </OutDetectors>
+  <OutDetectors ID="n3069n3068" LocationName="Coit and Willow Bend" StreetName="Arterial" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1220" ModelVolume="1561"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1574" ModelVolume="1500"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1910" ModelVolume="2097"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="2318" ModelVolume="2597"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1770" ModelVolume="2698"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="1238" ModelVolume="369"/>
+  </OutDetectors>
+  <OutDetectors ID="n3087n3094" LocationName="US 75 N Cottonwood Creek TO Midpark Rd" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="7097" ModelVolume="3442"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="7513" ModelVolume="5348"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5858" ModelVolume="5598"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5288" ModelVolume="5175"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="6303" ModelVolume="5652"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="6483" ModelVolume="1365"/>
+  </OutDetectors>
+  <OutDetectors ID="n3097n308811" LocationName="Forest EX and FR" StreetName="Arterial" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="403" ModelVolume="1084"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="396" ModelVolume="1067"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="502" ModelVolume="1287"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="686" ModelVolume="1146"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="675" ModelVolume="1011"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="431" ModelVolume="263"/>
+  </OutDetectors>
+  <OutDetectors ID="n3101n3231" LocationName="Forest and TI Blvd" StreetName="Arterial" Direction="EB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1045" ModelVolume="1304"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1188" ModelVolume="1427"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1511" ModelVolume="1819"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1885" ModelVolume="1616"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1568" ModelVolume="1636"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="1050" ModelVolume="197"/>
+  </OutDetectors>
+  <OutDetectors ID="n310312n308811" LocationName="Forest EX and FR" StreetName="Arterial" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="283" ModelVolume="263"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="283" ModelVolume="311"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="291" ModelVolume="483"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="346" ModelVolume="425"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="332" ModelVolume="387"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="241" ModelVolume="23"/>
+  </OutDetectors>
+  <OutDetectors ID="n3105n3106" LocationName="FR75 EX S of Midpark" StreetName="Arterial" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="516" ModelVolume="751"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="597" ModelVolume="930"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="651" ModelVolume="1003"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="705" ModelVolume="793"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="828" ModelVolume="743"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="693" ModelVolume="89"/>
+  </OutDetectors>
+  <OutDetectors ID="n3135n3136" LocationName="US 75 N Coit Rd TO Churchill Way" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="6072" ModelVolume="2846"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="6327" ModelVolume="5444"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5744" ModelVolume="6250"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4503" ModelVolume="4958"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5357" ModelVolume="5929"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="5848" ModelVolume="564"/>
+  </OutDetectors>
+  <OutDetectors ID="n3137n3138" LocationName="US 75 S Coit Rd TO Forest Ln" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="5482" ModelVolume="2777"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="5888" ModelVolume="3294"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5563" ModelVolume="4857"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4586" ModelVolume="5260"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5109" ModelVolume="4897"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4794" ModelVolume="993"/>
+  </OutDetectors>
+  <OutDetectors ID="n3138n3140" LocationName="US 75 S Forest Ln TO Park Central" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="5589" ModelVolume="2760"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="5935" ModelVolume="3299"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5727" ModelVolume="4799"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4699" ModelVolume="5257"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5240" ModelVolume="4927"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="2586" ModelVolume="1036"/>
+  </OutDetectors>
+  <OutDetectors ID="n3164n586" LocationName="US 75 S Park Central TO Royal Ln" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="6041" ModelVolume="3379"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="6549" ModelVolume="4499"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="6774" ModelVolume="6229"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="6641" ModelVolume="6017"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="6611" ModelVolume="5904"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="849" ModelVolume="1146"/>
+  </OutDetectors>
+  <OutDetectors ID="n3209n322" LocationName="IH 635 E Greenville Ave TO Abrams Rd" StreetName="IH635" Direction="EB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="2699" ModelVolume="2763"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3249" ModelVolume="3975"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3574" ModelVolume="3269"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="3300" ModelVolume="3625"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="3082" ModelVolume="2353"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="2604" ModelVolume="200"/>
+  </OutDetectors>
+  <OutDetectors ID="n3213n3219" LocationName="Greenville and Forest" StreetName="Arterial" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1307" ModelVolume="467"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1131" ModelVolume="628"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1051" ModelVolume="851"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1237" ModelVolume="1049"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1045" ModelVolume="890"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="710" ModelVolume="105"/>
+  </OutDetectors>
+  <OutDetectors ID="n3215n3225" LocationName="IH 635 W Greenville Ave TO TI Blvd" StreetName="IH635" Direction="WB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4110" ModelVolume="2678"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4226" ModelVolume="2738"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4212" ModelVolume="3484"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4018" ModelVolume="3625"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="3724" ModelVolume="3326"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3042" ModelVolume="584"/>
+  </OutDetectors>
+  <OutDetectors ID="n3219n3213" LocationName="Greenville and Forest" StreetName="Arterial" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1487" ModelVolume="700"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1406" ModelVolume="1233"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1354" ModelVolume="2080"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1477" ModelVolume="2306"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1109" ModelVolume="2430"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="738" ModelVolume="227"/>
+  </OutDetectors>
+  <OutDetectors ID="n321n3215" LocationName="IH 635 W Abrams Rd TO Greenville Ave" StreetName="IH635" Direction="WB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4055" ModelVolume="1262"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4093" ModelVolume="1418"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4100" ModelVolume="2245"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="3882" ModelVolume="2733"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="3681" ModelVolume="2640"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3049" ModelVolume="435"/>
+  </OutDetectors>
+  <OutDetectors ID="n3227n3228" LocationName="IH 635 E TI Blvd TO Greenville Ave" StreetName="IH635" Direction="EB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="5568" ModelVolume="3668"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="6302" ModelVolume="5012"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="6733" ModelVolume="4203"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="6686" ModelVolume="4288"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="6115" ModelVolume="2906"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="5412" ModelVolume="231"/>
+  </OutDetectors>
+  <OutDetectors ID="n3231n3101" LocationName="Forest and TI Blvd" StreetName="Arterial" Direction="WB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="974" ModelVolume="738"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1051" ModelVolume="783"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1103" ModelVolume="965"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1207" ModelVolume="1831"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1098" ModelVolume="1475"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="842" ModelVolume="117"/>
+  </OutDetectors>
+  <OutDetectors ID="n3238n3239" LocationName="IH 635 HOV E Abrams Rd TO Forest Ln" StreetName="HOV" Direction="Unknown" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="111" ModelVolume="165"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="342" ModelVolume="123"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="914" ModelVolume="98"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1174" ModelVolume="261"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="713" ModelVolume="45"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="226" ModelVolume="6"/>
+  </OutDetectors>
+  <OutDetectors ID="n3270n3320" LocationName="0001" StreetName="n3270n3320" Direction="North" ScreenLine="0001" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="404"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="604"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="1208"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="1221"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="1199"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="290"/>
+  </OutDetectors>
+  <OutDetectors ID="n3279n3291" LocationName="US 75 S Belt Line Rd TO Spring Valley Rd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="5882" ModelVolume="3133"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="6242" ModelVolume="3782"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="6799" ModelVolume="5367"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="6757" ModelVolume="5684"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="6328" ModelVolume="5101"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4934" ModelVolume="879"/>
+  </OutDetectors>
+  <OutDetectors ID="n3289n3290" LocationName="US 75 N Spring Valley Rd TO Belt Line Rd" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="6671" ModelVolume="2819"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="7288" ModelVolume="4783"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5047" ModelVolume="4695"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5692" ModelVolume="5694"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="6055" ModelVolume="5419"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="5963" ModelVolume="1223"/>
+  </OutDetectors>
+  <OutDetectors ID="n3291n3292" LocationName="US 75 S Belt Line Rd TO Spring Valley Rd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4330" ModelVolume="3112"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4661" ModelVolume="3778"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5087" ModelVolume="5332"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4892" ModelVolume="5697"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4617" ModelVolume="5097"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3776" ModelVolume="930"/>
+  </OutDetectors>
+  <OutDetectors ID="n3300n3304" LocationName="US 75 S Spring Valley Rd TO Midpark Rd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="5040" ModelVolume="3614"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="5367" ModelVolume="3775"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5833" ModelVolume="5554"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5480" ModelVolume="5926"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5472" ModelVolume="5326"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4184" ModelVolume="982"/>
+  </OutDetectors>
+  <OutDetectors ID="n3304n3106" LocationName="FR75 EX S of Midpark" StreetName="Arterial" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="258" ModelVolume="0"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="324" ModelVolume="66"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="384" ModelVolume="96"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="487" ModelVolume="104"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="482" ModelVolume="143"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="294" ModelVolume="29"/>
+  </OutDetectors>
+  <OutDetectors ID="n3304n3108" LocationName="US 75 S Midpark Rd TO Cottonwood Creek" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="6727" ModelVolume="3698"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="7214" ModelVolume="3934"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="7536" ModelVolume="5992"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="7438" ModelVolume="6196"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="7142" ModelVolume="5674"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="5789" ModelVolume="1020"/>
+  </OutDetectors>
+  <OutDetectors ID="n3306n3307" LocationName="US 75 N Midpark Rd TO Spring Valley Rd" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="5474" ModelVolume="3095"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="5851" ModelVolume="4941"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4625" ModelVolume="4984"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4676" ModelVolume="5055"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5072" ModelVolume="5350"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4877" ModelVolume="1565"/>
+  </OutDetectors>
+  <OutDetectors ID="n3306n3311" LocationName="CentennialGreenvilleSpringValleyEXFR75" StreetName="Arterial" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="754" ModelVolume="288"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="811" ModelVolume="382"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1250" ModelVolume="391"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1409" ModelVolume="390"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1202" ModelVolume="511"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="840" ModelVolume="44"/>
+  </OutDetectors>
+  <OutDetectors ID="n3307n3289" LocationName="US 75 N Spring Valley Rd TO Belt Line Rd" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4758" ModelVolume="3168"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="5107" ModelVolume="5414"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4193" ModelVolume="5313"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4339" ModelVolume="6151"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4578" ModelVolume="6021"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4276" ModelVolume="1654"/>
+  </OutDetectors>
+  <OutDetectors ID="n3308n3309" LocationName="US 75 HOV S Spring Valley Rd TO Midpark Rd" StreetName="HOV" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="407" ModelVolume="50"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="494" ModelVolume="71"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="667" ModelVolume="89"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="644" ModelVolume="74"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="557" ModelVolume="94"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="358" ModelVolume="26"/>
+  </OutDetectors>
+  <OutDetectors ID="n331814n3311" LocationName="CentennialGreenvilleSpringValleyEXFR75" StreetName="Arterial" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="738" ModelVolume="544"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="881" ModelVolume="1136"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1273" ModelVolume="2033"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1763" ModelVolume="2791"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1178" ModelVolume="2070"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="834" ModelVolume="61"/>
+  </OutDetectors>
+  <OutDetectors ID="n3320n3270" LocationName="0002" StreetName="n3320n3270" Direction="South" ScreenLine="0002" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="226"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="171"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="126"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="150"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="137"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="3"/>
+  </OutDetectors>
+  <OutDetectors ID="n3324n204" LocationName="CentennialGreenville" StreetName="Arterial" Direction="EB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1069" ModelVolume="874"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1255" ModelVolume="1237"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1608" ModelVolume="1488"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1888" ModelVolume="1755"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1661" ModelVolume="1945"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="1285" ModelVolume="313"/>
+  </OutDetectors>
+  <OutDetectors ID="n3331n3334" LocationName="0002" StreetName="n3331n3334" Direction="South" ScreenLine="0002" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="90"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="188"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="139"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="156"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="113"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="14"/>
+  </OutDetectors>
+  <OutDetectors ID="n3334n3331" LocationName="0001" StreetName="n3334n3331" Direction="North" ScreenLine="0001" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="181"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="393"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="545"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="627"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="695"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="1"/>
+  </OutDetectors>
+  <OutDetectors ID="n3335n2291" LocationName="0001" StreetName="n3335n2291" Direction="North" ScreenLine="0001" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="70"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="98"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="184"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="349"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="450"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="66"/>
+  </OutDetectors>
+  <OutDetectors ID="n3493n3494" LocationName="IH 635 W Audelia Rd TO Skillman Rd" StreetName="IH635" Direction="WB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3912" ModelVolume="1315"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3944" ModelVolume="1520"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4059" ModelVolume="2461"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4140" ModelVolume="2967"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="3694" ModelVolume="2815"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="2946" ModelVolume="394"/>
+  </OutDetectors>
+  <OutDetectors ID="n3583n3584" LocationName="IH 635 HOV W Plano Rd TO Miller Rd" StreetName="HOV" Direction="Unknown" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="53" ModelVolume="0"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="72" ModelVolume="0"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="87" ModelVolume="0"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="86" ModelVolume="0"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="74" ModelVolume="0"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="57" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n3584n3585" LocationName="IH 635 HOV W Plano Rd TO Miller Rd" StreetName="HOV" Direction="Unknown" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="70" ModelVolume="0"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="106" ModelVolume="0"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="112" ModelVolume="0"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="117" ModelVolume="0"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="97" ModelVolume="0"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="67" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n3586n363" LocationName="IH 635 HOV W Skillman Rd TO Forest Ln" StreetName="HOV" Direction="Unknown" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="22" ModelVolume="0"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="15" ModelVolume="0"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="16" ModelVolume="0"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="17" ModelVolume="0"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="19" ModelVolume="0"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="12" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n361n368" LocationName="IH 635 HOV E Forest Ln TO Skillman Rd" StreetName="HOV" Direction="Unknown" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="221" ModelVolume="0"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="389" ModelVolume="0"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="947" ModelVolume="0"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1159" ModelVolume="0"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="774" ModelVolume="0"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="321" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n362n3581" LocationName="IH 635 E Forest Ln TO Skillman Rd" StreetName="IH635" Direction="EB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="6221" ModelVolume="3311"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="7059" ModelVolume="4344"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="7696" ModelVolume="3709"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="7259" ModelVolume="4117"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="6601" ModelVolume="2652"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="5714" ModelVolume="311"/>
+  </OutDetectors>
+  <OutDetectors ID="n365n366" LocationName="IH 635 HOV W Greenville Ave TO TI Blvd" StreetName="HOV" Direction="Unknown" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="141" ModelVolume="53"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="153" ModelVolume="77"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="168" ModelVolume="154"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="155" ModelVolume="249"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="138" ModelVolume="252"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="98" ModelVolume="10"/>
+  </OutDetectors>
+  <OutDetectors ID="n366n3211" LocationName="IH 635 HOV W Greenville Ave TO TI Blvd" StreetName="HOV" Direction="Unknown" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="78" ModelVolume="0"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="116" ModelVolume="0"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="121" ModelVolume="0"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="141" ModelVolume="0"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="121" ModelVolume="0"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="70" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n368n369" LocationName="IH 635 HOV E Audelia Rd TO Miller Rd" StreetName="HOV" Direction="Unknown" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="75" ModelVolume="0"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="267" ModelVolume="0"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="813" ModelVolume="0"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1052" ModelVolume="0"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="658" ModelVolume="0"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="187" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n369n3745" LocationName="IH 635 HOV E Miller Rd TO Plano Rd" StreetName="HOV" Direction="Unknown" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="99" ModelVolume="0"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="297" ModelVolume="0"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="852" ModelVolume="0"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1071" ModelVolume="0"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="708" ModelVolume="0"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="201" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n3739n3800" LocationName="IH 635 W Plano Rd TO Miller Rd" StreetName="IH635" Direction="WB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3574" ModelVolume="792"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3518" ModelVolume="1134"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3683" ModelVolume="1432"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="3799" ModelVolume="1887"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="3499" ModelVolume="1658"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="2842" ModelVolume="20"/>
+  </OutDetectors>
+  <OutDetectors ID="n3745n3746" LocationName="IH 635 HOV E Plano Rd TO Walnut Hill Ln" StreetName="HOV" Direction="Unknown" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="84" ModelVolume="0"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="251" ModelVolume="0"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="716" ModelVolume="0"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1059" ModelVolume="0"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="604" ModelVolume="0"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="188" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n3801n3802" LocationName="IH 635 W Miller Rd TO Audelia Rd" StreetName="IH635" Direction="WB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3762" ModelVolume="764"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3718" ModelVolume="1116"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3860" ModelVolume="1438"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="3874" ModelVolume="2044"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="3587" ModelVolume="1715"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="2869" ModelVolume="26"/>
+  </OutDetectors>
+  <OutDetectors ID="n3803n3740" LocationName="IH 635 E Miller Rd TO Plano Rd" StreetName="IH635" Direction="EB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4935" ModelVolume="1647"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="5851" ModelVolume="1072"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="6545" ModelVolume="2379"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="6052" ModelVolume="2270"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5466" ModelVolume="1773"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4665" ModelVolume="338"/>
+  </OutDetectors>
+  <OutDetectors ID="n3807n3803" LocationName="IH 635 E Miller Rd TO Plano Rd" StreetName="IH635" Direction="EB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1268" ModelVolume="1556"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1277" ModelVolume="986"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1450" ModelVolume="2248"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1546" ModelVolume="2100"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1333" ModelVolume="1472"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="1018" ModelVolume="230"/>
+  </OutDetectors>
+  <OutDetectors ID="n39n40" LocationName="0006" StreetName="n39n40" Direction="South" ScreenLine="0006" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="917"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="703"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="602"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="731"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="827"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="28"/>
+  </OutDetectors>
+  <OutDetectors ID="n4078n4076" LocationName="Campbell EX from US75" StreetName="Arterial" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="828" ModelVolume="165"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="878" ModelVolume="541"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1168" ModelVolume="740"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1277" ModelVolume="849"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1147" ModelVolume="1281"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="609" ModelVolume="240"/>
+  </OutDetectors>
+  <OutDetectors ID="n4078n4079" LocationName="US 75 N Arapaho Rd TO Collins Blvd" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="6077" ModelVolume="2781"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="6746" ModelVolume="4584"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5515" ModelVolume="4460"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5861" ModelVolume="6112"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="6040" ModelVolume="5652"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="5792" ModelVolume="1202"/>
+  </OutDetectors>
+  <OutDetectors ID="n4079n4081" LocationName="US 75 N Collins Blvd TO Campbell Rd" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="6373" ModelVolume="2754"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="6939" ModelVolume="4572"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5919" ModelVolume="4472"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="6327" ModelVolume="5922"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="6600" ModelVolume="5832"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="5992" ModelVolume="1239"/>
+  </OutDetectors>
+  <OutDetectors ID="n4081n4359" LocationName="US 75 N Campbell Rd TO Galatyn Pkwy" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="6053" ModelVolume="2766"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="6456" ModelVolume="4980"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5517" ModelVolume="4777"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5464" ModelVolume="6296"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5943" ModelVolume="5828"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="5862" ModelVolume="1587"/>
+  </OutDetectors>
+  <OutDetectors ID="n4082n21180" LocationName="US 75 S Collins Blvd TO Arapaho Rd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="5160" ModelVolume="2897"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="5536" ModelVolume="3794"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5994" ModelVolume="4931"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5977" ModelVolume="4956"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5965" ModelVolume="4877"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4695" ModelVolume="866"/>
+  </OutDetectors>
+  <OutDetectors ID="n4099n4100" LocationName="Greenville and Arapaho" StreetName="Arterial" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="216" ModelVolume="574"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="245" ModelVolume="795"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="428" ModelVolume="756"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="560" ModelVolume="780"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="342" ModelVolume="669"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="175" ModelVolume="49"/>
+  </OutDetectors>
+  <OutDetectors ID="n40n39" LocationName="0005" StreetName="n40n39" Direction="North" ScreenLine="0005" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="234"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="303"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="386"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="484"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="514"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="91"/>
+  </OutDetectors>
+  <OutDetectors ID="n4100n4099" LocationName="Greenville and Arapaho" StreetName="Arterial" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="256" ModelVolume="614"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="281" ModelVolume="705"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="437" ModelVolume="894"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="868" ModelVolume="1501"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="486" ModelVolume="1088"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="188" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n4100n4222" LocationName="0002" StreetName="n4100n4222" Direction="South" ScreenLine="0002" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="538"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="841"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="674"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="800"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="449"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="35"/>
+  </OutDetectors>
+  <OutDetectors ID="n4145n4146" LocationName="US 75 HOV S Renner Rd TO Dallas Collin County Line" StreetName="HOV" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="93" ModelVolume="55"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="163" ModelVolume="71"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="238" ModelVolume="92"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="297" ModelVolume="69"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="368" ModelVolume="104"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="156" ModelVolume="13"/>
+  </OutDetectors>
+  <OutDetectors ID="n4147n4148" LocationName="US 75 HOV S Galatyn Pkwy TO Campbell Rd" StreetName="HOV" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="58" ModelVolume="54"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="108" ModelVolume="70"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="178" ModelVolume="92"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="200" ModelVolume="70"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="275" ModelVolume="103"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="126" ModelVolume="15"/>
+  </OutDetectors>
+  <OutDetectors ID="n4148n4149" LocationName="US 75 HOV S Campbell Rd TO Collins Blvd" StreetName="HOV" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="402" ModelVolume="53"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="540" ModelVolume="71"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="565" ModelVolume="92"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="596" ModelVolume="70"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="694" ModelVolume="102"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="447" ModelVolume="16"/>
+  </OutDetectors>
+  <OutDetectors ID="n4149n4150" LocationName="US 75 HOV S Collins Blvd TO Arapaho Rd" StreetName="HOV" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="609" ModelVolume="50"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1143" ModelVolume="72"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="911" ModelVolume="94"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="865" ModelVolume="69"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="933" ModelVolume="100"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="772" ModelVolume="19"/>
+  </OutDetectors>
+  <OutDetectors ID="n4151n4152" LocationName="US 75 HOV N Campbell Rd TO Galatyn Pkwy" StreetName="HOV" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="145" ModelVolume="34"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="266" ModelVolume="131"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="495" ModelVolume="242"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="898" ModelVolume="245"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="631" ModelVolume="443"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="245" ModelVolume="62"/>
+  </OutDetectors>
+  <OutDetectors ID="n4152n4153" LocationName="US 75 HOV N Campbell Rd TO Galatyn Pkwy" StreetName="HOV" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="73" ModelVolume="34"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="171" ModelVolume="129"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="328" ModelVolume="240"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="604" ModelVolume="247"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="484" ModelVolume="436"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="166" ModelVolume="71"/>
+  </OutDetectors>
+  <OutDetectors ID="n4154n4155" LocationName="US 75 HOV N Renner Rd TO SH 190/President George Bush TPKE" StreetName="HOV" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="163" ModelVolume="34"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="298" ModelVolume="121"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="485" ModelVolume="244"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="827" ModelVolume="250"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="679" ModelVolume="426"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="236" ModelVolume="82"/>
+  </OutDetectors>
+  <OutDetectors ID="n4155n4423" LocationName="US 75 HOV N SH 190/President George Bush TPKE TO Plano Pkwy" StreetName="HOV" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="632" ModelVolume="33"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="720" ModelVolume="122"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1092" ModelVolume="243"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1427" ModelVolume="247"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1227" ModelVolume="425"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="702" ModelVolume="87"/>
+  </OutDetectors>
+  <OutDetectors ID="n4188n219" LocationName="IH 635 W Skillman Rd TO Forest Ln" StreetName="IH635" Direction="WB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4897" ModelVolume="1374"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="5023" ModelVolume="1496"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5089" ModelVolume="2411"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5084" ModelVolume="2825"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4606" ModelVolume="2712"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3741" ModelVolume="399"/>
+  </OutDetectors>
+  <OutDetectors ID="n4196n4231" LocationName="0002" StreetName="n4196n4231" Direction="South" ScreenLine="0002" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="93"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="294"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="519"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="739"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="617"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="66"/>
+  </OutDetectors>
+  <OutDetectors ID="n4218n4221" LocationName="0002" StreetName="n4218n4221" Direction="South" ScreenLine="0002" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="345"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="298"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="564"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="706"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="491"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="239"/>
+  </OutDetectors>
+  <OutDetectors ID="n4219n4220" LocationName="0002" StreetName="n4219n4220" Direction="South" ScreenLine="0002" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="126"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="268"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="73"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="110"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="36"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="1"/>
+  </OutDetectors>
+  <OutDetectors ID="n4220n4219" LocationName="0001" StreetName="n4220n4219" Direction="North" ScreenLine="0001" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="114"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="78"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="83"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="620"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="667"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="7"/>
+  </OutDetectors>
+  <OutDetectors ID="n4221n4218" LocationName="0001" StreetName="n4221n4218" Direction="North" ScreenLine="0001" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="411"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="566"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="946"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="908"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="832"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="7"/>
+  </OutDetectors>
+  <OutDetectors ID="n4222n4100" LocationName="0001" StreetName="n4222n4100" Direction="North" ScreenLine="0001" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="864"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="960"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="878"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="1024"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="1294"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="176"/>
+  </OutDetectors>
+  <OutDetectors ID="n4223n185" LocationName="0002" StreetName="n4223n185" Direction="South" ScreenLine="0002" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="104"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="132"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="79"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="51"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="35"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="14"/>
+  </OutDetectors>
+  <OutDetectors ID="n4223n4227" LocationName="Arapaho and Greenville" StreetName="Arterial" Direction="WB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1286" ModelVolume="814"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1454" ModelVolume="902"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1700" ModelVolume="1261"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1809" ModelVolume="1573"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1340" ModelVolume="1780"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="914" ModelVolume="122"/>
+  </OutDetectors>
+  <OutDetectors ID="n4227n4223" LocationName="Arapaho and Greenville" StreetName="Arterial" Direction="EB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1302" ModelVolume="1020"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1362" ModelVolume="1364"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1605" ModelVolume="1376"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1820" ModelVolume="2138"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1469" ModelVolume="1237"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="1016" ModelVolume="253"/>
+  </OutDetectors>
+  <OutDetectors ID="n4231n4196" LocationName="0001" StreetName="n4231n4196" Direction="North" ScreenLine="0001" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="83"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="118"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="156"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="184"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="127"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="10"/>
+  </OutDetectors>
+  <OutDetectors ID="n4300n4303" LocationName="Renner DP from Routh Creek" StreetName="Arterial" Direction="WB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="656" ModelVolume="854"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="810" ModelVolume="1294"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1072" ModelVolume="1390"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1407" ModelVolume="1701"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="959" ModelVolume="1156"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="493" ModelVolume="47"/>
+  </OutDetectors>
+  <OutDetectors ID="n4300n4400" LocationName="Plano AP to Renner" StreetName="Arterial" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="618" ModelVolume="960"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="692" ModelVolume="915"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="720" ModelVolume="568"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="964" ModelVolume="789"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="680" ModelVolume="562"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="453" ModelVolume="47"/>
+  </OutDetectors>
+  <OutDetectors ID="n4303n4300" LocationName="Renner DP from Routh Creek" StreetName="Arterial" Direction="EB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="647" ModelVolume="753"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="694" ModelVolume="1184"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1080" ModelVolume="1091"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1446" ModelVolume="1113"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1049" ModelVolume="974"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="584" ModelVolume="81"/>
+  </OutDetectors>
+  <OutDetectors ID="n430614n4304" LocationName="Plano Pkwy EX from US75" StreetName="Arterial" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="424" ModelVolume="456"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="496" ModelVolume="750"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1198" ModelVolume="1179"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1592" ModelVolume="1237"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="910" ModelVolume="562"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="339" ModelVolume="32"/>
+  </OutDetectors>
+  <OutDetectors ID="n4310n4311" LocationName="US 75 S Renner Rd TO Dallas Collin County Line" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3360" ModelVolume="2857"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3454" ModelVolume="3122"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3633" ModelVolume="4260"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="3717" ModelVolume="4740"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="3841" ModelVolume="4686"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3114" ModelVolume="806"/>
+  </OutDetectors>
+  <OutDetectors ID="n4312n4304" LocationName="Plano Pkwy EX from US75" StreetName="Arterial" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="553" ModelVolume="40"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="586" ModelVolume="224"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="620" ModelVolume="280"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="668" ModelVolume="151"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="649" ModelVolume="41"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="353" ModelVolume="114"/>
+  </OutDetectors>
+  <OutDetectors ID="n4312n4314" LocationName="US 75 N Renner Rd TO SH 190/President George Bush TPKE" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3791" ModelVolume="2414"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4049" ModelVolume="4717"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4524" ModelVolume="4999"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4169" ModelVolume="5442"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4268" ModelVolume="4845"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3836" ModelVolume="1235"/>
+  </OutDetectors>
+  <OutDetectors ID="n4314n4457" LocationName="US 75 N SH 190/President George Bush TPKE TO Plano Pkwy" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4745" ModelVolume="2363"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4974" ModelVolume="4673"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5677" ModelVolume="4993"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5222" ModelVolume="5407"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5291" ModelVolume="4864"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4818" ModelVolume="1251"/>
+  </OutDetectors>
+  <OutDetectors ID="n4358n4082" LocationName="US 75 S Campbell Rd TO Collins Blvd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="5096" ModelVolume="3033"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="5468" ModelVolume="3840"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5877" ModelVolume="4970"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5603" ModelVolume="5047"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5600" ModelVolume="5155"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4675" ModelVolume="975"/>
+  </OutDetectors>
+  <OutDetectors ID="n4359n4367" LocationName="US 75 N Galatyn Pkwy TO Dallas Collin County Line" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3542" ModelVolume="2072"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4074" ModelVolume="3847"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3876" ModelVolume="3454"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4175" ModelVolume="4639"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4303" ModelVolume="3905"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3486" ModelVolume="1209"/>
+  </OutDetectors>
+  <OutDetectors ID="n4363n4364" LocationName="US 75 S Galatyn Pkwy TO Campbell Rd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3642" ModelVolume="2418"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3749" ModelVolume="2670"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3906" ModelVolume="3841"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="3855" ModelVolume="4074"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4031" ModelVolume="4030"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3345" ModelVolume="755"/>
+  </OutDetectors>
+  <OutDetectors ID="n4400n4300" LocationName="Plano AP to Renner" StreetName="Arterial" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="651" ModelVolume="933"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="785" ModelVolume="1871"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1487" ModelVolume="1395"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="2231" ModelVolume="1415"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1273" ModelVolume="1349"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="567" ModelVolume="96"/>
+  </OutDetectors>
+  <OutDetectors ID="n4409n4410" LocationName="US 75 S 15th St TO Plano Pkwy" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="2993" ModelVolume="2540"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3048" ModelVolume="2916"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3372" ModelVolume="3906"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4271" ModelVolume="4254"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="3634" ModelVolume="4321"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="2659" ModelVolume="662"/>
+  </OutDetectors>
+  <OutDetectors ID="n4421n4422" LocationName="US 75 HOV S Plano Pkwy TO SH 190/President George Bush TPKE" StreetName="HOV" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="101" ModelVolume="58"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="159" ModelVolume="69"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="259" ModelVolume="96"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="334" ModelVolume="66"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="329" ModelVolume="104"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="144" ModelVolume="11"/>
+  </OutDetectors>
+  <OutDetectors ID="n4422n4145" LocationName="US 75 HOV S SH 190/President George Bush TPKE TO Renner Rd" StreetName="HOV" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="112" ModelVolume="56"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="217" ModelVolume="70"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="312" ModelVolume="95"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="381" ModelVolume="67"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="415" ModelVolume="104"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="163" ModelVolume="12"/>
+  </OutDetectors>
+  <OutDetectors ID="n4423n4424" LocationName="US 75 HOV N Plano Pkwy TO 15th St" StreetName="HOV" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="179" ModelVolume="33"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="328" ModelVolume="120"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="518" ModelVolume="242"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="923" ModelVolume="247"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="687" ModelVolume="428"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="249" ModelVolume="87"/>
+  </OutDetectors>
+  <OutDetectors ID="n4456n4310" LocationName="US 75 S SH 190/President George Bush TPKE TO Renner Rd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3926" ModelVolume="2780"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3778" ModelVolume="3083"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3962" ModelVolume="4200"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4107" ModelVolume="4623"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4283" ModelVolume="4663"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3596" ModelVolume="764"/>
+  </OutDetectors>
+  <OutDetectors ID="n4458n4414" LocationName="US 75 N Plano Pkwy TO 15th St" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3706" ModelVolume="2449"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3681" ModelVolume="4786"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5084" ModelVolume="5868"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4950" ModelVolume="6669"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4769" ModelVolume="5009"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3635" ModelVolume="1302"/>
+  </OutDetectors>
+  <OutDetectors ID="n552n2133" LocationName="0004" StreetName="n552n2133" Direction="South" ScreenLine="0004" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="853"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="950"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="716"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="788"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="997"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n557n2147" LocationName="0004" StreetName="n557n2147" Direction="South" ScreenLine="0004" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="563"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="1039"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="1827"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="1700"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="1255"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="103"/>
+  </OutDetectors>
+  <OutDetectors ID="n5588n5589" LocationName="US 75 N Bethany Dr TO McDermott Dr" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4295" ModelVolume="1863"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4328" ModelVolume="3336"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5322" ModelVolume="6467"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="6045" ModelVolume="5866"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5486" ModelVolume="5740"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4332" ModelVolume="1188"/>
+  </OutDetectors>
+  <OutDetectors ID="n5590n5591" LocationName="US 75 S McDermott Dr TO Bethany Dr" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3441" ModelVolume="2430"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3661" ModelVolume="2776"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3794" ModelVolume="4828"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4380" ModelVolume="5028"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4050" ModelVolume="5197"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3208" ModelVolume="295"/>
+  </OutDetectors>
+  <OutDetectors ID="n5591n21217" LocationName="US 75 S McDermott Dr TO Bethany Dr" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4064" ModelVolume="2130"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4236" ModelVolume="2704"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4414" ModelVolume="4742"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5002" ModelVolume="4997"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4738" ModelVolume="5138"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3846" ModelVolume="304"/>
+  </OutDetectors>
+  <OutDetectors ID="n5639n140" LocationName="US 75 HOV S Parker Rd TO Park Blvd" StreetName="HOV" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="123" ModelVolume="7"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="234" ModelVolume="7"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="284" ModelVolume="9"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="383" ModelVolume="21"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="401" ModelVolume="5"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="182" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n563n2238" LocationName="0004" StreetName="n563n2238" Direction="South" ScreenLine="0004" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="11"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="9"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="85"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="134"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="85"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="1"/>
+  </OutDetectors>
+  <OutDetectors ID="n5640n5641" LocationName="US 75 HOV N Ridgemont Dr TO Enterprise Blvd" StreetName="HOV" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="199" ModelVolume="35"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="251" ModelVolume="263"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="804" ModelVolume="493"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1186" ModelVolume="461"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="932" ModelVolume="411"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="325" ModelVolume="97"/>
+  </OutDetectors>
+  <OutDetectors ID="n5641n5781" LocationName="US 75 HOV N Enterprise Blvd TO Bethany Dr" StreetName="HOV" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="229" ModelVolume="33"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="267" ModelVolume="257"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="764" ModelVolume="489"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1074" ModelVolume="457"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="891" ModelVolume="412"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="326" ModelVolume="112"/>
+  </OutDetectors>
+  <OutDetectors ID="n565n2220" LocationName="0004" StreetName="n565n2220" Direction="South" ScreenLine="0004" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="173"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="317"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="239"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="290"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="175"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="12"/>
+  </OutDetectors>
+  <OutDetectors ID="n5662n5663" LocationName="US 75 S Legacy Dr TO Spring Creek Pkwy" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3640" ModelVolume="2034"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3783" ModelVolume="2253"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4007" ModelVolume="3415"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4499" ModelVolume="3683"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4080" ModelVolume="3809"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3430" ModelVolume="392"/>
+  </OutDetectors>
+  <OutDetectors ID="n5664n5823" LocationName="US 75 N Spring Creek Pkwy TO Legacy Dr" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4184" ModelVolume="1732"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4277" ModelVolume="3209"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4478" ModelVolume="4538"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4511" ModelVolume="5181"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4638" ModelVolume="3974"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4360" ModelVolume="820"/>
+  </OutDetectors>
+  <OutDetectors ID="n5688n5689" LocationName="US 75 S Spring Creek Pkwy TO Parker Rd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3074" ModelVolume="2517"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3409" ModelVolume="2764"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3508" ModelVolume="4167"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4102" ModelVolume="4445"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="3564" ModelVolume="4643"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="2711" ModelVolume="514"/>
+  </OutDetectors>
+  <OutDetectors ID="n5689n5690" LocationName="US 75 S Spring Creek Pkwy TO Parker Rd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4441" ModelVolume="2505"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4751" ModelVolume="2767"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5096" ModelVolume="4162"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5800" ModelVolume="4444"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5110" ModelVolume="4640"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4171" ModelVolume="531"/>
+  </OutDetectors>
+  <OutDetectors ID="n5690n21213" LocationName="US 75 S Parker Rd TO Park Blvd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3240" ModelVolume="2476"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3550" ModelVolume="2767"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3587" ModelVolume="4142"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4278" ModelVolume="4451"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="3613" ModelVolume="4622"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="2834" ModelVolume="591"/>
+  </OutDetectors>
+  <OutDetectors ID="n5691n5692" LocationName="US 75 N Parker Rd TO Spring Creek Pkwy" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4305" ModelVolume="2059"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3685" ModelVolume="2804"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5469" ModelVolume="4411"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5315" ModelVolume="5258"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5302" ModelVolume="3774"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4632" ModelVolume="892"/>
+  </OutDetectors>
+  <OutDetectors ID="n5691n5699" LocationName="Spring Crk EX" StreetName="Arterial" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="249" ModelVolume="294"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="312" ModelVolume="213"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="364" ModelVolume="551"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="413" ModelVolume="246"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="335" ModelVolume="176"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="292" ModelVolume="241"/>
+  </OutDetectors>
+  <OutDetectors ID="n5692n5664" LocationName="US 75 N Spring Creek Pkwy TO Legacy Dr" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3175" ModelVolume="2037"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="2917" ModelVolume="3445"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4244" ModelVolume="4973"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4381" ModelVolume="6113"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4288" ModelVolume="4372"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3222" ModelVolume="936"/>
+  </OutDetectors>
+  <OutDetectors ID="n569313n5699" LocationName="Spring Crk EX" StreetName="Arterial" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1466" ModelVolume="1082"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1463" ModelVolume="2456"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1885" ModelVolume="2636"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="2554" ModelVolume="3098"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="2323" ModelVolume="1807"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="1571" ModelVolume="93"/>
+  </OutDetectors>
+  <OutDetectors ID="n569315n15" LocationName="0006" StreetName="n569315n15" Direction="South" ScreenLine="0006" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="1180"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="721"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="628"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="769"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="740"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="26"/>
+  </OutDetectors>
+  <OutDetectors ID="n5693n5708" LocationName="Parker and K Ave" StreetName="Arterial" Direction="EB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1099" ModelVolume="915"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1160" ModelVolume="1147"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1376" ModelVolume="1663"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1798" ModelVolume="1671"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1692" ModelVolume="2072"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="1210" ModelVolume="135"/>
+  </OutDetectors>
+  <OutDetectors ID="n5708n18" LocationName="0006" StreetName="n5708n18" Direction="South" ScreenLine="0006" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="844"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="482"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="432"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="629"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="564"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="34"/>
+  </OutDetectors>
+  <OutDetectors ID="n5708n5693" LocationName="Parker and K Ave" StreetName="Arterial" Direction="WB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="984" ModelVolume="947"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1041" ModelVolume="886"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1105" ModelVolume="1390"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1210" ModelVolume="1487"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1074" ModelVolume="1707"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="959" ModelVolume="60"/>
+  </OutDetectors>
+  <OutDetectors ID="n5708n5712" LocationName="K Ave and Parker Rd" StreetName="Arterial" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="579" ModelVolume="322"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="654" ModelVolume="1966"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="949" ModelVolume="1952"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1437" ModelVolume="1834"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="967" ModelVolume="1048"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="557" ModelVolume="71"/>
+  </OutDetectors>
+  <OutDetectors ID="n5710n76" LocationName="0006" StreetName="n5710n76" Direction="South" ScreenLine="0006" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="191"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="23"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="45"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="71"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="58"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n5712n5708" LocationName="K Ave and Parker Rd" StreetName="Arterial" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="530" ModelVolume="634"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="576" ModelVolume="302"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="665" ModelVolume="231"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="773" ModelVolume="402"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="586" ModelVolume="316"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="450" ModelVolume="22"/>
+  </OutDetectors>
+  <OutDetectors ID="n5731n15" LocationName="Park Bvd EX from US75" StreetName="Arterial" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="564" ModelVolume="570"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="566" ModelVolume="288"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="567" ModelVolume="480"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="622" ModelVolume="705"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="591" ModelVolume="655"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="467" ModelVolume="80"/>
+  </OutDetectors>
+  <OutDetectors ID="n5732n21214" LocationName="0005" StreetName="n5732n21214" Direction="North" ScreenLine="0005" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="2404"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="3049"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="4925"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="5561"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="3884"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="1096"/>
+  </OutDetectors>
+  <OutDetectors ID="n5733n569312" LocationName="0005" StreetName="n5733n569312" Direction="North" ScreenLine="0005" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="953"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="2482"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="2707"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="2700"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="1658"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="80"/>
+  </OutDetectors>
+  <OutDetectors ID="n5772n5639" LocationName="US 75 HOV S Legacy Dr TO Spring Creek Pkwy" StreetName="HOV" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="135" ModelVolume="7"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="229" ModelVolume="7"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="282" ModelVolume="9"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="364" ModelVolume="21"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="402" ModelVolume="5"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="201" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n5772n5809" LocationName="US 75 S Ridgemont Dr TO Chase Oaks Blvd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4096" ModelVolume="1946"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4207" ModelVolume="2343"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4390" ModelVolume="3823"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4836" ModelVolume="3885"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4656" ModelVolume="4329"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3927" ModelVolume="266"/>
+  </OutDetectors>
+  <OutDetectors ID="n5792n5781" LocationName="US 75 N Enterprise Blvd TO Bethany Dr" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4106" ModelVolume="1694"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4087" ModelVolume="3186"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4476" ModelVolume="5462"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4762" ModelVolume="5129"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4685" ModelVolume="4696"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4278" ModelVolume="991"/>
+  </OutDetectors>
+  <OutDetectors ID="n579n21220" LocationName="US 75 N Royal Ln TO Park Central" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4716" ModelVolume="3427"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4937" ModelVolume="5752"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4820" ModelVolume="6510"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4400" ModelVolume="5123"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4721" ModelVolume="6158"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4718" ModelVolume="515"/>
+  </OutDetectors>
+  <OutDetectors ID="n5809n5810" LocationName="US 75 S Ridgemont Dr TO Chase Oaks Blvd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3378" ModelVolume="2274"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3500" ModelVolume="2587"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3524" ModelVolume="4348"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4057" ModelVolume="4254"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="3757" ModelVolume="4732"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3170" ModelVolume="319"/>
+  </OutDetectors>
+  <OutDetectors ID="n5810n5811" LocationName="US 75 S Ridgemont Dr TO Chase Oaks Blvd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3927" ModelVolume="2254"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3957" ModelVolume="2595"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4270" ModelVolume="4340"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4720" ModelVolume="4243"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4265" ModelVolume="4741"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3659" ModelVolume="341"/>
+  </OutDetectors>
+  <OutDetectors ID="n5811n5662" LocationName="US 75 S Legacy Dr TO Spring Creek Pkwy" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3304" ModelVolume="2057"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3455" ModelVolume="2246"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3643" ModelVolume="3440"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4034" ModelVolume="3681"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="3545" ModelVolume="3812"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3115" ModelVolume="350"/>
+  </OutDetectors>
+  <OutDetectors ID="n5815n5792" LocationName="US 75 N Chase Oaks Blvd TO Ridgemont Dr" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3994" ModelVolume="2064"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4096" ModelVolume="3423"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4667" ModelVolume="5782"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4767" ModelVolume="5812"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4718" ModelVolume="4697"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4280" ModelVolume="1078"/>
+  </OutDetectors>
+  <OutDetectors ID="n5823n5815" LocationName="US 75 N Legacy Dr TO Chase Oaks Blvd" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3122" ModelVolume="1710"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3233" ModelVolume="3002"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="3918" ModelVolume="4717"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="3778" ModelVolume="5298"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="3935" ModelVolume="4044"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3438" ModelVolume="847"/>
+  </OutDetectors>
+  <OutDetectors ID="n5876n5877" LocationName="US 75 S Allen Dr TO McDermott Dr" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3828" ModelVolume="1917"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4123" ModelVolume="2317"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4313" ModelVolume="4034"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4844" ModelVolume="4040"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4531" ModelVolume="3938"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3595" ModelVolume="99"/>
+  </OutDetectors>
+  <OutDetectors ID="n5877n5917" LocationName="US 75 S Allen Dr TO McDermott Dr" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3765" ModelVolume="2572"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3951" ModelVolume="2775"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4312" ModelVolume="4787"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4725" ModelVolume="4982"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4465" ModelVolume="5067"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3537" ModelVolume="196"/>
+  </OutDetectors>
+  <OutDetectors ID="n5887n5888" LocationName="US 75 N Allen Dr TO Exchange Pkwy" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3856" ModelVolume="2086"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3713" ModelVolume="2612"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4735" ModelVolume="4840"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="5084" ModelVolume="5116"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4638" ModelVolume="5403"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3700" ModelVolume="953"/>
+  </OutDetectors>
+  <OutDetectors ID="n5888n21228" LocationName="US 75 N Exchange Pkwy TO Stacy Rd" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3466" ModelVolume="2075"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3397" ModelVolume="2606"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="4364" ModelVolume="4559"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4675" ModelVolume="5121"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4245" ModelVolume="5093"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3415" ModelVolume="905"/>
+  </OutDetectors>
+  <OutDetectors ID="n588n2139" LocationName="0004" StreetName="n588n2139" Direction="South" ScreenLine="0004" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="3194"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="4144"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="5915"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="5969"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="5776"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="1142"/>
+  </OutDetectors>
+  <OutDetectors ID="n5927n5887" LocationName="US 75 N McDermott Dr TO Allen Dr" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4416" ModelVolume="2137"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="4432" ModelVolume="3678"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5622" ModelVolume="6424"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="6215" ModelVolume="6678"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5731" ModelVolume="6642"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4397" ModelVolume="1233"/>
+  </OutDetectors>
+  <OutDetectors ID="n61n62" LocationName="Coit AP to Rockingham" StreetName="Arterial" Direction="SB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1134" ModelVolume="1132"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1182" ModelVolume="1296"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1244" ModelVolume="1327"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="1437" ModelVolume="1386"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="1323" ModelVolume="1254"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="948" ModelVolume="2"/>
+  </OutDetectors>
+  <OutDetectors ID="n62n61" LocationName="Coit AP to Rockingham" StreetName="Arterial" Direction="NB" ScreenLine="Individual" Source="NA" Comment="NA">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="1192" ModelVolume="1338"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="1334" ModelVolume="769"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="1918" ModelVolume="1582"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="2362" ModelVolume="1703"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="2036" ModelVolume="1984"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="1304" ModelVolume="46"/>
+  </OutDetectors>
+  <OutDetectors ID="n6n7" LocationName="0006" StreetName="n6n7" Direction="South" ScreenLine="0006" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="411"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="411"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="478"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="524"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="204"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="366"/>
+  </OutDetectors>
+  <OutDetectors ID="n733n734" LocationName="US 75 S Mockingbird Ln TO McCommas Blvd" StreetName="US75" Direction="SB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="6949" ModelVolume="3090"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="7194" ModelVolume="4406"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="6225" ModelVolume="5420"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="6988" ModelVolume="5944"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="6444" ModelVolume="4787"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="2792" ModelVolume="988"/>
+  </OutDetectors>
+  <OutDetectors ID="n735n737" LocationName="US 75 N Mockingbird Ln TO SMU Blvd" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="7259" ModelVolume="3913"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="6580" ModelVolume="3617"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5565" ModelVolume="4729"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="3868" ModelVolume="4399"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5992" ModelVolume="4686"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="5925" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n76n5710" LocationName="0005" StreetName="n76n5710" Direction="North" ScreenLine="0005" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="29"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="165"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="119"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="179"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="55"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="0"/>
+  </OutDetectors>
+  <OutDetectors ID="n7n6" LocationName="0005" StreetName="n7n6" Direction="North" ScreenLine="0005" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="0" ModelVolume="36"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="0" ModelVolume="79"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="0" ModelVolume="216"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="0" ModelVolume="240"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="0" ModelVolume="225"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="0" ModelVolume="24"/>
+  </OutDetectors>
+  <OutDetectors ID="n82n300004" LocationName="US 75 N 15th St TO Park Blvd" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="3620" ModelVolume="2551"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="2468" ModelVolume="3927"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="5137" ModelVolume="5853"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="4975" ModelVolume="6627"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="4643" ModelVolume="4666"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="3794" ModelVolume="1195"/>
+  </OutDetectors>
+  <OutDetectors ID="n83n53" LocationName="US 75 N Park Blvd TO Parker Rd" StreetName="US75" Direction="NB" ScreenLine="Individual" Source="" Comment="">
+    <TrafficData StartTime="00:00 AM" EndTime="01:00 AM" ObservedVolume="4732" ModelVolume="2176"/>
+    <TrafficData StartTime="01:00 AM" EndTime="02:00 AM" ObservedVolume="3425" ModelVolume="3042"/>
+    <TrafficData StartTime="02:00 AM" EndTime="03:00 AM" ObservedVolume="6265" ModelVolume="5155"/>
+    <TrafficData StartTime="03:00 AM" EndTime="04:00 AM" ObservedVolume="6049" ModelVolume="5673"/>
+    <TrafficData StartTime="04:00 AM" EndTime="05:00 AM" ObservedVolume="5727" ModelVolume="3930"/>
+    <TrafficData StartTime="05:00 AM" EndTime="06:00 AM" ObservedVolume="4954" ModelVolume="1087"/>
+  </OutDetectors>
+</OutDetectors>

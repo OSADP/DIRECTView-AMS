@@ -1,0 +1,174 @@
+﻿<Charts:ChartControl xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                     xmlns:Charts="http://schemas.devexpress.com/winfx/2008/xaml/charts"
+                     xmlns:System="clr-namespace:System;assembly=mscorlib"
+                     x:Class="DIRECTView.Controls.Charts.Chart"
+                     mc:Ignorable="d"
+                     d:DesignHeight="500"
+                     d:DesignWidth="1000"
+                     ToolTipEnabled="True"
+                     CrosshairEnabled="True"
+                     VerticalAlignment="Center"
+                     AnimationMode="OnDataChanged">
+    <Charts:ChartControl.CrosshairOptions>
+        <Charts:CrosshairOptions ArgumentLineBrush="#FFF51B1B"
+                                 GroupHeaderPattern="{}{A:h:mm tt}">
+            <Charts:CrosshairOptions.ValueLineStyle>
+                <Charts:LineStyle />
+            </Charts:CrosshairOptions.ValueLineStyle>
+        </Charts:CrosshairOptions>
+    </Charts:ChartControl.CrosshairOptions>
+    <Charts:ChartControl.Palette>
+        <Charts:CustomPalette>
+            <Charts:CustomPalette.Colors>
+                <Color>#FF5B9BD5</Color>
+                <Color>#FFED7D31</Color>
+                <Color>#FFA5A5A5</Color>
+                <Color>#FFFFC000</Color>
+                <Color>#FF4472C4</Color>
+                <Color>#FF70AD47</Color>
+                <Color>#FF264478</Color>
+                <Color>#FF9E480E</Color>
+                <Color>#FFBC8C00</Color>
+                <Color>#FF35591D</Color>
+                <Color>#FFB7B7B7</Color>
+                <Color>#FFC4D5EB</Color>
+                <Color>#FFA349A4</Color>
+                <Color>#FFB97A57</Color>
+                <Color>#FF7092BE</Color>
+                <Color>#FFEFE4B0</Color>
+                <Color>#FF3F48CC</Color>
+                <Color>#FF7F7F7F</Color>
+                <Color>#FFED1C24</Color>
+                <Color>#FF798CAB</Color>
+                <Color>#FF293955</Color>
+                <Color>#FF0202FF</Color>
+                <Color>MediumOrchid</Color>
+                <Color>#FFFEF683</Color>
+            </Charts:CustomPalette.Colors>
+        </Charts:CustomPalette>
+    </Charts:ChartControl.Palette>
+    <Charts:ChartControl.ToolTipOptions>
+        <Charts:ToolTipOptions ShowForSeries="True" />
+    </Charts:ChartControl.ToolTipOptions>
+    <Charts:ChartControl.Legend>
+        <Charts:Legend HorizontalPosition="Center"
+                       VerticalPosition="BottomOutside"
+                       Orientation="Horizontal"
+                       Visible="True"
+                       Cursor="None"
+                       IndentFromDiagram="5" />
+    </Charts:ChartControl.Legend>
+    <Charts:XYDiagram2D x:Name="XYDiagram2D"
+                        SeriesDataMember="Name"
+                        TextOptions.TextHintingMode="Animated"
+                        TextOptions.TextFormattingMode="Display">
+        <Charts:XYDiagram2D.AxisX>
+            <Charts:AxisX2D Visible="True">
+                <Charts:AxisX2D.DateTimeScaleOptions>
+                    <Charts:ManualDateTimeScaleOptions MeasureUnit="Minute"
+                                                       GridAlignment="Minute" />
+                </Charts:AxisX2D.DateTimeScaleOptions>
+                <Charts:AxisX2D.Title>
+                    <Charts:AxisTitle x:Name="XAxisTitle"
+                                      Content="Time"
+                                      FontSize="14"
+                                      FontWeight="Bold"
+                                      FontFamily="Tahoma" />
+                </Charts:AxisX2D.Title>
+                <Charts:AxisX2D.Label>
+                    <Charts:AxisLabel Angle="270"
+                                      BorderThickness="2"
+                                      TextPattern="{}{A:HH:mm}">
+
+                        <Charts:Axis2D.ResolveOverlappingOptions>
+                            <Charts:AxisLabelResolveOverlappingOptions />
+                        </Charts:Axis2D.ResolveOverlappingOptions>
+                    </Charts:AxisLabel>
+                </Charts:AxisX2D.Label>
+                <Charts:AxisX2D.ConstantLinesInFront>
+                    <Charts:ConstantLine LegendText="{x:Null}"
+                                         FontWeight="Bold"
+                                         FontSize="14"
+                                         x:Name="EndOfTrafficManagementLine"
+                                         Brush="Black">
+                        <Charts:ConstantLine.Value>
+                            <System:TimeSpan>18:05:00</System:TimeSpan>
+                        </Charts:ConstantLine.Value>
+                        <Charts:ConstantLine.LineStyle>
+                            <Charts:LineStyle DashCap="Triangle"
+                                              Thickness="5"
+                                              LineJoin="Bevel" />
+                        </Charts:ConstantLine.LineStyle>
+                        <Charts:ConstantLine.Title>
+                            <Charts:ConstantLineTitle Content="End of Traffic Management"
+                                                      ShowBelowLine="True"
+                                                      Alignment="Far" />
+                        </Charts:ConstantLine.Title>
+
+                    </Charts:ConstantLine>
+                </Charts:AxisX2D.ConstantLinesInFront>
+            </Charts:AxisX2D>
+        </Charts:XYDiagram2D.AxisX>
+        <Charts:XYDiagram2D.AxisY>
+            <Charts:AxisY2D GridLinesMinorVisible="False"
+                            Brush="#FF090982"
+                            NumericScaleOptions="{x:Null}">
+                <Charts:AxisY2D.CrosshairAxisLabelOptions>
+                    <Charts:CrosshairAxisLabelOptions FontWeight="Bold"
+                                                      FontSize="20"
+                                                      Visibility="True" />
+                </Charts:AxisY2D.CrosshairAxisLabelOptions>
+                <Charts:AxisY2D.Title>
+                    <Charts:AxisTitle x:Name="YAxisTitle"
+                                      Content="Percentage Saving in Total Travel Time"
+                                      FontSize="14"
+                                      FontWeight="Bold"
+                                      FontFamily="Tahoma" />
+                </Charts:AxisY2D.Title>
+                <Charts:AxisY2D.Label>
+                    <Charts:AxisLabel x:Name="YAxisLabel"
+                                      Padding="0"
+                                      BorderThickness="2"
+                                      TextPattern="{}{V:#,#}">
+
+                        <Charts:Axis2D.ResolveOverlappingOptions>
+                            <Charts:AxisLabelResolveOverlappingOptions />
+                        </Charts:Axis2D.ResolveOverlappingOptions>
+                    </Charts:AxisLabel>
+                </Charts:AxisY2D.Label>
+
+            </Charts:AxisY2D>
+        </Charts:XYDiagram2D.AxisY>
+        <Charts:XYDiagram2D.SecondaryAxesY>
+            <Charts:SecondaryAxisY2D GridLinesMinorVisible="False"
+                                     Brush="#FF090982"
+                                     NumericScaleOptions="{x:Null}">
+                <Charts:SecondaryAxisY2D.CrosshairAxisLabelOptions>
+                    <Charts:CrosshairAxisLabelOptions FontWeight="Bold"
+                                                      FontSize="20"
+                                                      Visibility="True" />
+                </Charts:SecondaryAxisY2D.CrosshairAxisLabelOptions>
+                <Charts:SecondaryAxisY2D.Title>
+                    <Charts:AxisTitle x:Name="YSecondaryAxisTitle"
+                                      Content="Total Travel Time (Minutes)"
+                                      FontSize="14"
+                                      FontWeight="Bold"
+                                      FontFamily="Tahoma" />
+                </Charts:SecondaryAxisY2D.Title>
+                <Charts:SecondaryAxisY2D.Label>
+                    <Charts:AxisLabel Padding="0"
+                                      BorderThickness="2"
+                                      TextPattern="{}{V:#,#}">
+
+                        <Charts:Axis2D.ResolveOverlappingOptions>
+                            <Charts:AxisLabelResolveOverlappingOptions />
+                        </Charts:Axis2D.ResolveOverlappingOptions>
+                    </Charts:AxisLabel>
+                </Charts:SecondaryAxisY2D.Label>
+            </Charts:SecondaryAxisY2D>
+        </Charts:XYDiagram2D.SecondaryAxesY>
+    </Charts:XYDiagram2D>
+</Charts:ChartControl>

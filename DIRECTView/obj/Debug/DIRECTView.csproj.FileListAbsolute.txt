@@ -1,0 +1,332 @@
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DIRECTView.exe.config
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DIRECTView.exe
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DIRECTView.pdb
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Data.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.DataAccess.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Images.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Mvvm.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Office.v15.1.Core.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Spreadsheet.v15.1.Core.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Charts.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Controls.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Core.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Docking.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.DocumentViewer.v15.1.Core.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Grid.v15.1.Core.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Grid.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Layout.v15.1.Core.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.LayoutControl.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.NavBar.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Printing.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Spreadsheet.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpo.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\Newtonsoft.Json.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Data.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.DataAccess.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Mvvm.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Office.v15.1.Core.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Spreadsheet.v15.1.Core.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Charts.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Controls.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Docking.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Grid.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Grid.v15.1.Core.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Layout.v15.1.Core.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.LayoutControl.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.NavBar.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Printing.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpf.Spreadsheet.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\DevExpress.Xpo.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\Newtonsoft.Json.xml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.Xpf.Charts.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.Xpf.Charts.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.Xpf.Charts.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.Xpf.Charts.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.Xpf.Controls.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.Xpf.Controls.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.Xpf.Controls.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.Xpf.Controls.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.Xpf.Docking.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.Xpf.Docking.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.Xpf.Docking.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.Xpf.Docking.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.Xpf.NavBar.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.Xpf.NavBar.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.Xpf.NavBar.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.Xpf.NavBar.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.Xpf.Printing.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.Xpf.Printing.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.Xpf.Printing.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.Xpf.Printing.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\Charts\Chart.baml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\Charts\ChartsPage.baml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\Charts\Filters.baml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\Charts\Resources.baml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\Ribbons\Ribbon.baml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\Ribbons\RibbonPageGroupStyles.baml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\Scenarios\ScenarioItem.baml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\Scenarios\SelectedScenarios.baml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\StatusBars\StatusBar.baml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\UserControl1.baml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\MainWindow.baml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\App.baml
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\Charts\Chart.g.cs
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\Charts\ChartsPage.g.cs
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\Charts\Filters.g.cs
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\Ribbons\Ribbon.g.cs
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\Scenarios\ScenarioItem.g.cs
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\Scenarios\SelectedScenarios.g.cs
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\StatusBars\StatusBar.g.cs
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\Controls\UserControl1.g.cs
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\MainWindow.g.cs
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\App.g.cs
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\DIRECTView_MarkupCompile.cache
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\DIRECTView_MarkupCompile.lref
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\DIRECTView.g.resources
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\DIRECTView.Properties.Resources.resources
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\DIRECTView.csproj.GenerateResource.Cache
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\DIRECTView.exe.licenses
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\DIRECTView.exe
+F:\ATDM Project\TrafficManagementStrategies\MeasuresOfPerformance\MeasuresOfPerformance\obj\Debug\DIRECTView.pdb
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DIRECTView.exe.config
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DIRECTView.exe
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DIRECTView.pdb
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Data.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.DataAccess.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Images.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Mvvm.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Office.v15.1.Core.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Spreadsheet.v15.1.Core.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Charts.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Controls.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Core.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Docking.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.DocumentViewer.v15.1.Core.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Grid.v15.1.Core.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Grid.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Layout.v15.1.Core.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.LayoutControl.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.NavBar.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Printing.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Spreadsheet.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpo.v15.1.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\Newtonsoft.Json.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Data.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.DataAccess.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Mvvm.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Office.v15.1.Core.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Spreadsheet.v15.1.Core.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Charts.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Controls.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Docking.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Grid.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Grid.v15.1.Core.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Layout.v15.1.Core.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.LayoutControl.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.NavBar.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Printing.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpf.Spreadsheet.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Xpo.v15.1.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\Newtonsoft.Json.xml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.Xpf.Charts.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.Xpf.Charts.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.Xpf.Charts.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.Xpf.Charts.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.Xpf.Controls.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.Xpf.Controls.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.Xpf.Controls.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.Xpf.Controls.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.Xpf.Docking.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.Xpf.Docking.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.Xpf.Docking.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.Xpf.Docking.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.Xpf.NavBar.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.Xpf.NavBar.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.Xpf.NavBar.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.Xpf.NavBar.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.Xpf.Printing.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.Xpf.Printing.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.Xpf.Printing.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.Xpf.Printing.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Charts\Chart.baml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Charts\Filters.baml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Charts\Resources.baml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Ribbons\Ribbon.baml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Ribbons\RibbonPageGroupStyles.baml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\UserControl1.baml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\App.baml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Charts\Chart.g.cs
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Charts\ChartsPage.g.cs
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Charts\Filters.g.cs
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Ribbons\Ribbon.g.cs
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Scenarios\ScenarioItem.g.cs
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Scenarios\SelectedScenarios.g.cs
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\StatusBars\StatusBar.g.cs
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\UserControl1.g.cs
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\MainWindow.g.cs
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\App.g.cs
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView_MarkupCompile.cache
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView_MarkupCompile.lref
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Charts\ChartsPage.baml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Scenarios\ScenarioItem.baml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Scenarios\SelectedScenarios.baml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\StatusBars\StatusBar.baml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\MainWindow.baml
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView.g.resources
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView.Properties.Resources.resources
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView.csproj.GenerateResource.Cache
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView.exe.licenses
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView.exe
+F:\ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView.pdb
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DIRECTView.exe.config
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView.exe
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView.pdb
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DIRECTView.exe
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DIRECTView.pdb
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\DevExpress.Images.v15.1.dll
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\Newtonsoft.Json.dll
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\bin\Debug\Newtonsoft.Json.xml
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView.csprojResolveAssemblyReference.cache
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Charts\Chart.baml
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Charts\Filters.baml
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Charts\Resources.baml
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Ribbons\Ribbon.baml
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Ribbons\RibbonPageGroupStyles.baml
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\UserControl1.baml
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\App.baml
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Charts\Chart.g.cs
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Charts\ChartsPage.g.cs
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Charts\Filters.g.cs
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Ribbons\Ribbon.g.cs
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Scenarios\ScenarioItem.g.cs
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Scenarios\SelectedScenarios.g.cs
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\StatusBars\StatusBar.g.cs
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\UserControl1.g.cs
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\MainWindow.g.cs
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\App.g.cs
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView_MarkupCompile.cache
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView_MarkupCompile.lref
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Charts\ChartsPage.baml
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Scenarios\ScenarioItem.baml
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\Scenarios\SelectedScenarios.baml
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\Controls\StatusBars\StatusBar.baml
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\MainWindow.baml
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView.g.resources
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView.Properties.Resources.resources
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView.csproj.GenerateResource.Cache
+D:\AMS ATDM Project\TrafficManagementStrategies\DIRECTView\DIRECTView\obj\Debug\DIRECTView.exe.licenses

@@ -1,0 +1,307 @@
+﻿<UserControl x:Class="DIRECTView.Controls.Charts.Filters"
+             xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+             xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:dxn="http://schemas.devexpress.com/winfx/2008/xaml/navbar"
+             xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+             mc:Ignorable="d"
+             d:DesignHeight="1250"
+             d:DesignWidth="200">
+    <UserControl.Resources>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibility" />
+    </UserControl.Resources>
+    <Grid Background="#FF93B1DD">
+        <ScrollViewer>
+            <DockPanel  DockPanel.Dock="Top">
+                <DockPanel  DockPanel.Dock="Top">
+                    <dxe:CheckEdit x:Name="_Filters" Content="Enable Filters"
+                                   IsChecked="True"
+                              HorizontalAlignment="Center"
+                              Margin="0" Padding="5,0,0,0" FontSize="18.667" FontWeight="Bold"
+                                   Checked="CheckEdit_StatusChanged"
+									Unchecked="CheckEdit_StatusChanged"
+                              />
+                </DockPanel>
+                <DockPanel  DockPanel.Dock="Top">
+                    <dxlc:GroupBox DockPanel.Dock="Top"
+					Header="Scenarios Filters"
+					ShowShadow="WhenHasMouse"
+					MinimizationDirection="Vertical"
+					MinimizeElementVisibility="Visible">
+                        <DockPanel>
+                            <dxlc:GroupBox  DockPanel.Dock="Top"
+							Header="Operational Conditions"
+							ShowShadow="WhenHasMouse"
+							MinimizationDirection="Vertical"
+							MinimizeElementVisibility="Visible">
+                                <DockPanel>
+                                    <dxe:CheckEdit Content="OC-1"
+									x:Name="OC_1"
+									Checked="CheckEdit_StatusChanged"
+									Unchecked="CheckEdit_StatusChanged"
+									IsChecked="True" />
+                                    <Separator Width="10" />
+                                    <dxe:CheckEdit Content="OC-2"
+									x:Name="OC_2"
+									Checked="CheckEdit_StatusChanged"
+									Unchecked="CheckEdit_StatusChanged"
+									IsChecked="True" />
+                                    <Separator Width="10" />
+                                    <dxe:CheckEdit Content="OC-3"
+									x:Name="OC_3"
+									Checked="CheckEdit_StatusChanged"
+									Unchecked="CheckEdit_StatusChanged"
+									IsChecked="True" />
+                                    <Separator Width="10" />
+                                    <dxe:CheckEdit Content="OC-4"
+									x:Name="OC_4"
+									Checked="CheckEdit_StatusChanged"
+									Unchecked="CheckEdit_StatusChanged"
+									IsChecked="True" />
+                                </DockPanel>
+                            </dxlc:GroupBox>
+
+                            <dxlc:GroupBox DockPanel.Dock="Top"
+							Header="ATDM Strategies"
+							ShowShadow="WhenHasMouse"
+							MinimizationDirection="Vertical"
+							MinimizeElementVisibility="Visible">
+                                <DockPanel>
+                                    <dxe:CheckEdit Content="Dynamic Shoulder Lanes"
+									x:Name="DynamicShoulderLanes"
+									Checked="CheckEdit_StatusChanged"
+									Unchecked="CheckEdit_StatusChanged"
+									DockPanel.Dock="Top"
+									IsChecked="True" />
+                                    <dxe:CheckEdit Content="Adaptive Ramp Metering"
+									x:Name="AdaptiveRampMetering"
+									Checked="CheckEdit_StatusChanged"
+									Unchecked="CheckEdit_StatusChanged"
+									DockPanel.Dock="Top"
+									IsChecked="True" />
+                                    <dxe:CheckEdit Content="Dynamic Signal Timing"
+									x:Name="DynamicSignalTiming"
+									Checked="CheckEdit_StatusChanged"
+									Unchecked="CheckEdit_StatusChanged"
+									DockPanel.Dock="Top"
+									IsChecked="True" />
+                                    <dxe:CheckEdit Content="Dynamic Routing"
+									x:Name="DynamicRouting"
+									Checked="CheckEdit_StatusChanged"
+									Unchecked="CheckEdit_StatusChanged"
+									DockPanel.Dock="Top"
+									IsChecked="True" />
+                                    <dxe:CheckEdit Content="Dynamic Parking Pricing"
+									x:Name="DynamicallyPricedParking"
+									Checked="CheckEdit_StatusChanged"
+									Unchecked="CheckEdit_StatusChanged"
+									DockPanel.Dock="Top"
+									IsChecked="True" />
+                                </DockPanel>
+
+                            </dxlc:GroupBox>
+                            <dxlc:GroupBox DockPanel.Dock="Top"
+							Header="Assesment Attributes"
+							ShowShadow="WhenHasMouse"
+							MinimizationDirection="Vertical"
+							MinimizeElementVisibility="Visible">
+                                <DockPanel>
+                                    <dxlc:GroupBox Header="Demand Prediction Accurcy"
+									DockPanel.Dock="Top"
+									ShowShadow="WhenHasMouse"
+									MinimizationDirection="Vertical"
+									MinimizeElementVisibility="Visible">
+                                        <DockPanel>
+                                            <Label Content="Error in Demand Prediction"
+											DockPanel.Dock="Top" />
+                                            <DockPanel DockPanel.Dock="Bottom">
+                                                <dxe:CheckEdit Content="-10%"
+												x:Name="ErrorInDemandPrediction_Negative_10_Percent"
+												Checked="CheckEdit_StatusChanged"
+												Unchecked="CheckEdit_StatusChanged" />
+                                                <Separator Width="5" />
+                                                <dxe:CheckEdit Content="-05%"
+												x:Name="ErrorInDemandPrediction_Negative_05_Percent"
+												Checked="CheckEdit_StatusChanged"
+												Unchecked="CheckEdit_StatusChanged" />
+                                                <Separator Width="5" />
+                                                <dxe:CheckEdit Content="00%"
+												x:Name="ErrorInDemandPrediction__________00_Percent"
+												Checked="CheckEdit_StatusChanged"
+												Unchecked="CheckEdit_StatusChanged"
+												IsChecked="True" />
+                                                <Separator Width="5" />
+                                                <dxe:CheckEdit Content="05%"
+												x:Name="ErrorInDemandPrediction_Positive_05_Percent"
+												Checked="CheckEdit_StatusChanged"
+												Unchecked="CheckEdit_StatusChanged" />
+                                                <Separator Width="5" />
+                                                <dxe:CheckEdit Content="10%"
+												x:Name="ErrorInDemandPrediction_Positive_10_Percent"
+												Checked="CheckEdit_StatusChanged"
+												Unchecked="CheckEdit_StatusChanged" />
+                                            </DockPanel>
+                                        </DockPanel>
+                                    </dxlc:GroupBox>
+                                    <dxlc:GroupBox Header="Traffic Management Latency"
+									DockPanel.Dock="Top"
+									ShowShadow="WhenHasMouse"
+									MinimizationDirection="Vertical"
+									MinimizeElementVisibility="Visible">
+                                        <DockPanel>
+                                            <dxe:CheckEdit Content="0 Minutes"
+											x:Name="TrafficManagementLatency_00_Minutes"
+											Checked="CheckEdit_StatusChanged"
+											Unchecked="CheckEdit_StatusChanged"
+											IsChecked="True" />
+                                            <Separator Width="5" />
+                                            <dxe:CheckEdit Content="5 Minutes"
+											x:Name="TrafficManagementLatency_05_Minutes"
+											Checked="CheckEdit_StatusChanged"
+											Unchecked="CheckEdit_StatusChanged" />
+                                            <Separator Width="5" />
+                                            <dxe:CheckEdit Content="10 Minutes"
+											x:Name="TrafficManagementLatency_10_Minutes"
+											Checked="CheckEdit_StatusChanged"
+											Unchecked="CheckEdit_StatusChanged" />
+
+                                        </DockPanel>
+                                    </dxlc:GroupBox>
+                                    <dxlc:GroupBox Header="Prediction Horizon"
+									DockPanel.Dock="Top"
+									ShowShadow="WhenHasMouse"
+									MinimizationDirection="Vertical"
+									MinimizeElementVisibility="Visible">
+                                        <DockPanel>
+
+                                            <dxe:CheckEdit Content="15 Minutes"
+											x:Name="PredictionHorizon_15_Minutes"
+											Checked="CheckEdit_StatusChanged"
+											Unchecked="CheckEdit_StatusChanged" />
+                                            <Separator Width="5" />
+                                            <dxe:CheckEdit Content="30 Minutes"
+											x:Name="PredictionHorizon_30_Minutes"
+											Checked="CheckEdit_StatusChanged"
+											Unchecked="CheckEdit_StatusChanged"
+											IsChecked="True" />
+                                            <Separator Width="5" />
+                                            <dxe:CheckEdit Content="60 Minutes"
+											x:Name="PredictionHorizon_60_Minutes"
+											Checked="CheckEdit_StatusChanged"
+											Unchecked="CheckEdit_StatusChanged" />
+                                        </DockPanel>
+                                    </dxlc:GroupBox>
+                                    <dxlc:GroupBox Header="Coverage Extension"
+									DockPanel.Dock="Top"
+									ShowShadow="WhenHasMouse"
+									MinimizationDirection="Vertical"
+									MinimizeElementVisibility="Visible">
+                                        <DockPanel>
+                                            <dxe:CheckEdit Content="2 Miles"
+											x:Name="CoverageExtentVariation_02_Miles"
+											Checked="CheckEdit_StatusChanged"
+											Unchecked="CheckEdit_StatusChanged" />
+                                            <Separator Width="10" />
+                                            <dxe:CheckEdit Content="3 Miles"
+											x:Name="CoverageExtentVariation_03_Miles"
+											Checked="CheckEdit_StatusChanged"
+											Unchecked="CheckEdit_StatusChanged"
+											IsChecked="True" />
+                                            <Separator Width="10" />
+                                            <dxe:CheckEdit Content="4 Miles"
+											x:Name="CoverageExtentVariation_04_Miles"
+											Checked="CheckEdit_StatusChanged"
+											Unchecked="CheckEdit_StatusChanged" />
+                                        </DockPanel>
+                                    </dxlc:GroupBox>
+                                </DockPanel>
+                            </dxlc:GroupBox>
+                        </DockPanel>
+                    </dxlc:GroupBox>
+                    <dxlc:GroupBox DockPanel.Dock="Top"
+					Header="Scenarios"
+					Padding="5"
+					FontWeight="Bold"
+					ShowShadow="WhenHasMouse"
+					MinimizationDirection="Vertical"
+					MinimizeElementVisibility="Hidden">
+                        <DockPanel>
+                            <dxlc:GroupBox DockPanel.Dock="Top"
+							Padding="0"
+							Margin="1"
+							FontSize="16"
+							FontWeight="Bold"
+							Header="OC-1"
+							ShowShadow="WhenHasMouse"
+							Background="#FFF1FFE0"
+							MinimizationDirection="Vertical"
+							MinimizeElementVisibility="Visible">
+                                <DockPanel x:Name="OC_1_Group" />
+                            </dxlc:GroupBox>
+                            <dxlc:GroupBox DockPanel.Dock="Top"
+							State="Minimized"
+							Padding="0"
+							Margin="1"
+							FontSize="16"
+							FontWeight="Bold"
+							Background="#FFF1FFE0"
+							Header="OC-2"
+							ShowShadow="WhenHasMouse"
+							MinimizationDirection="Vertical"
+							MinimizeElementVisibility="Visible">
+                                <DockPanel x:Name="OC_2_Group"/>
+                            </dxlc:GroupBox>
+                            <dxlc:GroupBox DockPanel.Dock="Top"
+							State="Minimized"
+							Padding="0"
+							Margin="1"
+							FontSize="16"
+							FontWeight="Bold"
+							Background="#FFF1FFE0"
+							Header="OC-3"
+							ShowShadow="WhenHasMouse"
+							MinimizationDirection="Vertical"
+							MinimizeElementVisibility="Visible">
+                                <DockPanel x:Name="OC_3_Group"/>
+                            </dxlc:GroupBox>
+                            <dxlc:GroupBox DockPanel.Dock="Top"
+							State="Minimized"
+							Padding="0"
+							Margin="1"
+							FontSize="16"
+							FontWeight="Bold"
+							Background="#FFF1FFE0"
+							Header="OC-4"
+							ShowShadow="WhenHasMouse"
+							MinimizationDirection="Vertical"
+							MinimizeElementVisibility="Visible">
+                                <DockPanel x:Name="OC_4_Group"/>
+                            </dxlc:GroupBox>
+                            <dxn:NavBarControl AllowSelectItem="False"
+                                               Height="60"
+							AllowSelectDisabledItem="True">
+                                <dxn:NavBarControl.View>
+                                    <dxn:SideBarView  />
+                                </dxn:NavBarControl.View>
+                                <dxn:NavBarGroup Header="All"
+								NavigationPaneVisible="False">
+                                    <dxn:NavBarItem x:Name="DeSelctAllItem"
+									Content="Deselect All Scenarios"
+									ImageSource="{dx:DXImage Image=NewTask_32x32.png}" />
+
+                                </dxn:NavBarGroup>
+                            </dxn:NavBarControl>
+                            
+                        </DockPanel>
+                    </dxlc:GroupBox>
+                </DockPanel>
+                <DockPanel DockPanel.Dock="Top" />
+            </DockPanel>
+
+
+        </ScrollViewer>
+    </Grid>
+</UserControl>
