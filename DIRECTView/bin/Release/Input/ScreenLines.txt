@@ -1,8 +1,0 @@
-ID	X1	Y1	X2	Y2	IncludedLinkes	DIRECTION	Name
-================================================================================================
-1	-6685	2276.9	-6681.5	2276.9	All	NB	Between BeltLine and Arapaho
-2	-6685	2276.9	-6681.5	2276.9	All	SB	Between BeltLine and Arapaho
-3	-6687.1	2272.5	-6683.5	2272.5	All	NB	Between Walnut Hill Lane and Park Lane
-4	-6687.1	2272.5	-6683.5	2272.5	All	SB	Between Walnut Hill Lane and Park Lane
-5	-6683	2282.5	-6680	2282.5	All	NB	Between Park BLVD and Parker Rd
-6	-6683	2282.5	-6680	2282.5	All	SB	Between Park BLVD and Parker Rd
